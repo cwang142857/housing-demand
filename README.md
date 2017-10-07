@@ -13,9 +13,17 @@ The goal of this analysis is to project future housing demand in Texas with focu
    * Dallas-Fort Worth-Arlington, TX
    * San Antonio-New Braunfels, TX
 
+# Methodology:
+  * Quantify housing demand: existing home sales 
+  * Variables: 
+    * dependent variable: 
+
 # Analysis
+  * descriptive statistics analysis is conducted to assess the overall housing KPI metrics in 3 selected MSA
+  * a RF model is built to project future housing demand
 
 # Directory
+
 * raw_data directory contains all the raw data resources used in this analysis:
   * `sales.xlsx`: monthly MSA level of Sales, Dollar Volume, Average Listing Price, Median Listing Price, Total Listings,	Months Inventory (1990 - 2017)
     * source:   Real Estate Center, Texas A&M University, [website](https://www.recenter.tamu.edu/data/housing-activity/)
@@ -35,5 +43,13 @@ The goal of this analysis is to project future housing demand in Texas with focu
     * source: Federal Reserve Bank
   * `Metro_MedianRentalPrice_AllHomes.csv`: monthly metro level of Median price of homes listed for rent on Zillow for All homes (single-family, condominium and co-operative homes)(2010 - 2017)
     * source: Zillow Real Estate Research, [webstie](https://www.zillow.com/research/data/)
+
+* modeling_data directory contains the integretated and cleaned dataset for analysis and modeling
+
+* code directory contains the python code used for analysis and modeling
+
+* presentation directory contains the jupyter notebook used for presentation
+
+
     
     
