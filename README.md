@@ -41,9 +41,11 @@ The goal of this analysis is to project future housing demand in Texas with focu
     * source: Federal Reserve Bank
   * `wti_oil.csv`: monthly level of oil price(1980 - 2017)
     * source: Federal Reserve Bank
-  * `Metro_MedianRentalPrice_AllHomes.csv`: monthly metro level of Median price of homes listed for rent on Zillow for All homes (single-family, condominium and co-operative homes)(2010 - 2017)
+  * `Metro_MedianRentalPrice_AllHomes.csv`: monthly metro level of Median price of homes listed for rent on Zillow for All homes (single-family, condominium and co-operative homes) (2010 - 2017)
     * source: Zillow Real Estate Research, [webstie](https://www.zillow.com/research/data/)
-
+  * `Metro_MedianListingPrice_AllHomes.csv`: monthly metro level of Median listing price (or asking price) for homes listed on Zillow for All homes (single-family, condominium and co-operative homes) (2010 - 2017)
+    * source: Zillow Real Estate Research, [webstie](https://www.zillow.com/research/data/)
+    
 * _modeling_data_ directory contains the integretated and cleaned dataset for analysis and modeling
 
 * _code_ directory contains the python code used for analysis and modeling
