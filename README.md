@@ -44,11 +44,11 @@ The goal of this analysis is to project future housing demand in Texas with focu
   * `Metro_MedianRentalPrice_AllHomes.csv`: monthly metro level of Median price of homes listed for rent on Zillow for All homes (single-family, condominium and co-operative homes)(2010 - 2017)
     * source: Zillow Real Estate Research, [webstie](https://www.zillow.com/research/data/)
 
-* modeling_data directory contains the integretated and cleaned dataset for analysis and modeling
+* _modeling_data_ directory contains the integretated and cleaned dataset for analysis and modeling
 
-* code directory contains the python code used for analysis and modeling
+* _code_ directory contains the python code used for analysis and modeling
 
-* presentation directory contains the jupyter notebook used for presentation
+* _presentation_ directory contains the jupyter notebook used for presentation
 
 
     
