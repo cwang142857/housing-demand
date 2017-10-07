@@ -24,7 +24,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
 
 # Directory
 
-* raw_data directory contains all the raw data resources used in this analysis:
+* _raw_data_ directory contains all the raw data resources used in this analysis:
   * `sales.xlsx`: monthly MSA level of Sales, Dollar Volume, Average Listing Price, Median Listing Price, Total Listings,	Months Inventory (1990 - 2017)
     * source:   Real Estate Center, Texas A&M University, [website](https://www.recenter.tamu.edu/data/housing-activity/)
   * `dataPermit_full.csv`: monthly MSA level of Building permit data for single-family, 2-4 family and 5-plus family units (1980 - 2017)
