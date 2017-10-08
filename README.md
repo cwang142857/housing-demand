@@ -1,4 +1,4 @@
-# housing-demand
+# Housing Demand
 future housing demand projection
 
 # Objective
@@ -6,9 +6,9 @@ future housing demand projection
 The goal of this analysis is to project future housing demand in Texas with focus on Houston metropolitan area
 
 # Data
- * Time period:
- * Monthly level
- * Metropolitan Statistical Area (MSA) level: Based on the multi-county area specified by The Office of Management & Budget in 2013
+ * Time period: 1990-2017
+ * Frequency : monthly/annual
+ * Sub-region: Metropolitan Statistical Area (MSA) level
    * Houston-The Woodlands-Sugar Land, TX
    * Dallas-Fort Worth-Arlington, TX
    * San Antonio-New Braunfels, TX
