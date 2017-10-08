@@ -1,0 +1,994 @@
+msa,date,employmentTotal,employmentChange,unemploymentRate,unemploymentChange
+"Dallas-Fort Worth-Arlington, TX",Jan-1990,2144983,,4.9264,
+"Dallas-Fort Worth-Arlington, TX",Feb-1990,2154888,,5.182,
+"Dallas-Fort Worth-Arlington, TX",Mar-1990,2170434,,4.6637,
+"Dallas-Fort Worth-Arlington, TX",Apr-1990,2171635,,4.8143,
+"Dallas-Fort Worth-Arlington, TX",May-1990,2176130,,5.218,
+"Dallas-Fort Worth-Arlington, TX",Jun-1990,2200754,,5.5421,
+"Dallas-Fort Worth-Arlington, TX",Jul-1990,2213812,,5.4002,
+"Dallas-Fort Worth-Arlington, TX",Aug-1990,2203688,,5.1077,
+"Dallas-Fort Worth-Arlington, TX",Sep-1990,2188989,,5.2665,
+"Dallas-Fort Worth-Arlington, TX",Oct-1990,2196706,,4.9396,
+"Dallas-Fort Worth-Arlington, TX",Nov-1990,2191257,,5.3686,
+"Dallas-Fort Worth-Arlington, TX",Dec-1990,2194069,,5.1445,
+"Dallas-Fort Worth-Arlington, TX",Jan-1991,2154002,,5.4679,
+"Dallas-Fort Worth-Arlington, TX",Feb-1991,2149160,-0.27,6.0957,0.91
+"Dallas-Fort Worth-Arlington, TX",Mar-1991,2156653,-0.63,6.1643,1.5
+"Dallas-Fort Worth-Arlington, TX",Apr-1991,2179237,0.35,6.0122,1.2
+"Dallas-Fort Worth-Arlington, TX",May-1991,2170570,-0.26,6.444,1.23
+"Dallas-Fort Worth-Arlington, TX",Jun-1991,2199588,-0.05,6.887,1.34
+"Dallas-Fort Worth-Arlington, TX",Jul-1991,2214998,0.05,6.6348,1.23
+"Dallas-Fort Worth-Arlington, TX",Aug-1991,2192278,-0.52,6.4871,1.38
+"Dallas-Fort Worth-Arlington, TX",Sep-1991,2191423,0.11,6.5443,1.28
+"Dallas-Fort Worth-Arlington, TX",Oct-1991,2193191,-0.16,6.482,1.54
+"Dallas-Fort Worth-Arlington, TX",Nov-1991,2188468,-0.13,6.5299,1.16
+"Dallas-Fort Worth-Arlington, TX",Dec-1991,2185217,-0.4,6.4246,1.28
+"Dallas-Fort Worth-Arlington, TX",Jan-1992,2160750,0.31,7.2112,1.74
+"Dallas-Fort Worth-Arlington, TX",Feb-1992,2161472,0.57,7.1641,1.07
+"Dallas-Fort Worth-Arlington, TX",Mar-1992,2176455,0.92,6.8936,0.73
+"Dallas-Fort Worth-Arlington, TX",Apr-1992,2191370,0.56,6.8385,0.83
+"Dallas-Fort Worth-Arlington, TX",May-1992,2196640,1.2,6.9453,0.5
+"Dallas-Fort Worth-Arlington, TX",Jun-1992,2219884,0.92,7.5848,0.7
+"Dallas-Fort Worth-Arlington, TX",Jul-1992,2240480,1.15,7.0869,0.45
+"Dallas-Fort Worth-Arlington, TX",Aug-1992,2230385,1.74,6.8592,0.37
+"Dallas-Fort Worth-Arlington, TX",Sep-1992,2215872,1.12,6.8523,0.31
+"Dallas-Fort Worth-Arlington, TX",Oct-1992,2220493,1.24,6.4666,-0.02
+"Dallas-Fort Worth-Arlington, TX",Nov-1992,2221996,1.53,6.771,0.24
+"Dallas-Fort Worth-Arlington, TX",Dec-1992,2227534,1.94,6.3347,-0.09
+"Dallas-Fort Worth-Arlington, TX",Jan-1993,2194406,1.56,7.0898,-0.12
+"Dallas-Fort Worth-Arlington, TX",Feb-1993,2207750,2.14,6.7139,-0.45
+"Dallas-Fort Worth-Arlington, TX",Mar-1993,2222946,2.14,6.2584,-0.64
+"Dallas-Fort Worth-Arlington, TX",Apr-1993,2225903,1.58,5.9888,-0.85
+"Dallas-Fort Worth-Arlington, TX",May-1993,2242815,2.1,6.0504,-0.89
+"Dallas-Fort Worth-Arlington, TX",Jun-1993,2273243,2.4,6.4898,-1.09
+"Dallas-Fort Worth-Arlington, TX",Jul-1993,2290717,2.24,6.1037,-0.98
+"Dallas-Fort Worth-Arlington, TX",Aug-1993,2288124,2.59,6.0591,-0.8
+"Dallas-Fort Worth-Arlington, TX",Sep-1993,2267896,2.35,5.9151,-0.94
+"Dallas-Fort Worth-Arlington, TX",Oct-1993,2279981,2.68,5.8125,-0.65
+"Dallas-Fort Worth-Arlington, TX",Nov-1993,2292921,3.19,5.7275,-1.04
+"Dallas-Fort Worth-Arlington, TX",Dec-1993,2298003,3.16,5.3138,-1.02
+"Dallas-Fort Worth-Arlington, TX",Jan-1994,2276626,3.75,6.073,-1.02
+"Dallas-Fort Worth-Arlington, TX",Feb-1994,2283885,3.45,6.0447,-0.67
+"Dallas-Fort Worth-Arlington, TX",Mar-1994,2292225,3.12,5.7795,-0.48
+"Dallas-Fort Worth-Arlington, TX",Apr-1994,2305252,3.56,5.4787,-0.51
+"Dallas-Fort Worth-Arlington, TX",May-1994,2326237,3.72,5.2377,-0.81
+"Dallas-Fort Worth-Arlington, TX",Jun-1994,2344793,3.15,5.7553,-0.73
+"Dallas-Fort Worth-Arlington, TX",Jul-1994,2360401,3.04,5.598,-0.51
+"Dallas-Fort Worth-Arlington, TX",Aug-1994,2361227,3.19,5.3387,-0.72
+"Dallas-Fort Worth-Arlington, TX",Sep-1994,2354575,3.82,5.1016,-0.81
+"Dallas-Fort Worth-Arlington, TX",Oct-1994,2369018,3.91,4.8215,-0.99
+"Dallas-Fort Worth-Arlington, TX",Nov-1994,2376092,3.63,4.7579,-0.97
+"Dallas-Fort Worth-Arlington, TX",Dec-1994,2382950,3.7,4.3159,-1
+"Dallas-Fort Worth-Arlington, TX",Jan-1995,2350394,3.24,5.1821,-0.89
+"Dallas-Fort Worth-Arlington, TX",Feb-1995,2365977,3.59,4.6625,-1.38
+"Dallas-Fort Worth-Arlington, TX",Mar-1995,2380869,3.87,4.5267,-1.25
+"Dallas-Fort Worth-Arlington, TX",Apr-1995,2388390,3.61,4.6501,-0.83
+"Dallas-Fort Worth-Arlington, TX",May-1995,2387899,2.65,4.5899,-0.65
+"Dallas-Fort Worth-Arlington, TX",Jun-1995,2408416,2.71,5.1265,-0.63
+"Dallas-Fort Worth-Arlington, TX",Jul-1995,2426827,2.81,5.0855,-0.51
+"Dallas-Fort Worth-Arlington, TX",Aug-1995,2418908,2.44,4.9138,-0.42
+"Dallas-Fort Worth-Arlington, TX",Sep-1995,2411450,2.42,4.8544,-0.25
+"Dallas-Fort Worth-Arlington, TX",Oct-1995,2427051,2.45,4.578,-0.24
+"Dallas-Fort Worth-Arlington, TX",Nov-1995,2424907,2.05,4.4757,-0.28
+"Dallas-Fort Worth-Arlington, TX",Dec-1995,2426153,1.81,4.1899,-0.13
+"Dallas-Fort Worth-Arlington, TX",Jan-1996,2400413,2.13,4.872,-0.31
+"Dallas-Fort Worth-Arlington, TX",Feb-1996,2419076,2.24,4.3771,-0.29
+"Dallas-Fort Worth-Arlington, TX",Mar-1996,2438471,2.42,4.2556,-0.27
+"Dallas-Fort Worth-Arlington, TX",Apr-1996,2447014,2.45,4.0611,-0.59
+"Dallas-Fort Worth-Arlington, TX",May-1996,2460243,3.03,4.0748,-0.52
+"Dallas-Fort Worth-Arlington, TX",Jun-1996,2489269,3.36,4.2512,-0.88
+"Dallas-Fort Worth-Arlington, TX",Jul-1996,2513442,3.57,4.1356,-0.95
+"Dallas-Fort Worth-Arlington, TX",Aug-1996,2503813,3.51,3.8161,-1.1
+"Dallas-Fort Worth-Arlington, TX",Sep-1996,2503398,3.81,3.7751,-1.08
+"Dallas-Fort Worth-Arlington, TX",Oct-1996,2518720,3.78,3.6624,-0.92
+"Dallas-Fort Worth-Arlington, TX",Nov-1996,2517024,3.8,3.7627,-0.71
+"Dallas-Fort Worth-Arlington, TX",Dec-1996,2525183,4.08,3.4643,-0.73
+"Dallas-Fort Worth-Arlington, TX",Jan-1997,2503041,4.28,3.9911,-0.88
+"Dallas-Fort Worth-Arlington, TX",Feb-1997,2507991,3.68,4.0422,-0.33
+"Dallas-Fort Worth-Arlington, TX",Mar-1997,2536101,4,3.8633,-0.39
+"Dallas-Fort Worth-Arlington, TX",Apr-1997,2550449,4.23,3.479,-0.58
+"Dallas-Fort Worth-Arlington, TX",May-1997,2562900,4.17,3.5313,-0.54
+"Dallas-Fort Worth-Arlington, TX",Jun-1997,2583345,3.78,4.0389,-0.21
+"Dallas-Fort Worth-Arlington, TX",Jul-1997,2604594,3.63,3.8707,-0.26
+"Dallas-Fort Worth-Arlington, TX",Aug-1997,2596494,3.7,3.7348,-0.08
+"Dallas-Fort Worth-Arlington, TX",Sep-1997,2589014,3.42,3.687,-0.09
+"Dallas-Fort Worth-Arlington, TX",Oct-1997,2604028,3.39,3.3232,-0.34
+"Dallas-Fort Worth-Arlington, TX",Nov-1997,2621979,4.17,3.1762,-0.59
+"Dallas-Fort Worth-Arlington, TX",Dec-1997,2626798,4.02,3.0112,-0.45
+"Dallas-Fort Worth-Arlington, TX",Jan-1998,2584576,3.26,3.5252,-0.47
+"Dallas-Fort Worth-Arlington, TX",Feb-1998,2595562,3.49,3.3556,-0.69
+"Dallas-Fort Worth-Arlington, TX",Mar-1998,2607962,2.83,3.3728,-0.49
+"Dallas-Fort Worth-Arlington, TX",Apr-1998,2624671,2.91,2.9719,-0.51
+"Dallas-Fort Worth-Arlington, TX",May-1998,2629727,2.61,3.2376,-0.29
+"Dallas-Fort Worth-Arlington, TX",Jun-1998,2646080,2.43,3.7949,-0.24
+"Dallas-Fort Worth-Arlington, TX",Jul-1998,2662034,2.21,3.7756,-0.1
+"Dallas-Fort Worth-Arlington, TX",Aug-1998,2653157,2.18,3.4752,-0.26
+"Dallas-Fort Worth-Arlington, TX",Sep-1998,2661441,2.8,3.3964,-0.29
+"Dallas-Fort Worth-Arlington, TX",Oct-1998,2678961,2.88,3.129,-0.19
+"Dallas-Fort Worth-Arlington, TX",Nov-1998,2691468,2.65,2.9342,-0.24
+"Dallas-Fort Worth-Arlington, TX",Dec-1998,2703856,2.93,2.6766,-0.33
+"Dallas-Fort Worth-Arlington, TX",Jan-1999,2682642,3.79,3.115,-0.41
+"Dallas-Fort Worth-Arlington, TX",Feb-1999,2688293,3.57,3.0354,-0.32
+"Dallas-Fort Worth-Arlington, TX",Mar-1999,2704130,3.69,2.8662,-0.51
+"Dallas-Fort Worth-Arlington, TX",Apr-1999,2713911,3.4,2.8881,-0.08
+"Dallas-Fort Worth-Arlington, TX",May-1999,2718127,3.36,2.9385,-0.3
+"Dallas-Fort Worth-Arlington, TX",Jun-1999,2730460,3.19,3.4296,-0.37
+"Dallas-Fort Worth-Arlington, TX",Jul-1999,2745812,3.15,3.4135,-0.36
+"Dallas-Fort Worth-Arlington, TX",Aug-1999,2733901,3.04,3.2589,-0.22
+"Dallas-Fort Worth-Arlington, TX",Sep-1999,2725285,2.4,3.3444,-0.05
+"Dallas-Fort Worth-Arlington, TX",Oct-1999,2751233,2.7,3.1841,0.06
+"Dallas-Fort Worth-Arlington, TX",Nov-1999,2757471,2.45,3.0879,0.15
+"Dallas-Fort Worth-Arlington, TX",Dec-1999,2770747,2.47,2.8598,0.18
+"Dallas-Fort Worth-Arlington, TX",Jan-2000,2734576,1.94,3.8261,0.71
+"Dallas-Fort Worth-Arlington, TX",Feb-2000,2738152,1.85,3.786,0.75
+"Dallas-Fort Worth-Arlington, TX",Mar-2000,2748097,1.63,3.7051,0.84
+"Dallas-Fort Worth-Arlington, TX",Apr-2000,2773299,2.19,3.256,0.37
+"Dallas-Fort Worth-Arlington, TX",May-2000,2755415,1.37,3.5248,0.59
+"Dallas-Fort Worth-Arlington, TX",Jun-2000,2777404,1.72,3.8761,0.45
+"Dallas-Fort Worth-Arlington, TX",Jul-2000,2775598,1.08,3.7329,0.32
+"Dallas-Fort Worth-Arlington, TX",Aug-2000,2767454,1.23,3.7339,0.47
+"Dallas-Fort Worth-Arlington, TX",Sep-2000,2772903,1.75,3.5052,0.16
+"Dallas-Fort Worth-Arlington, TX",Oct-2000,2798312,1.71,3.2386,0.05
+"Dallas-Fort Worth-Arlington, TX",Nov-2000,2802320,1.63,3.2085,0.12
+"Dallas-Fort Worth-Arlington, TX",Dec-2000,2819951,1.78,2.8482,-0.01
+"Dallas-Fort Worth-Arlington, TX",Jan-2001,2800842,2.42,3.5728,-0.25
+"Dallas-Fort Worth-Arlington, TX",Feb-2001,2801167,2.3,3.478,-0.31
+"Dallas-Fort Worth-Arlington, TX",Mar-2001,2804403,2.05,3.7574,0.05
+"Dallas-Fort Worth-Arlington, TX",Apr-2001,2805845,1.17,3.8348,0.58
+"Dallas-Fort Worth-Arlington, TX",May-2001,2791710,1.32,4.006,0.48
+"Dallas-Fort Worth-Arlington, TX",Jun-2001,2790486,0.47,4.8159,0.94
+"Dallas-Fort Worth-Arlington, TX",Jul-2001,2798941,0.84,4.8097,1.08
+"Dallas-Fort Worth-Arlington, TX",Aug-2001,2759065,-0.3,5.1703,1.44
+"Dallas-Fort Worth-Arlington, TX",Sep-2001,2769380,-0.13,5.1964,1.69
+"Dallas-Fort Worth-Arlington, TX",Oct-2001,2765756,-1.16,5.401,2.16
+"Dallas-Fort Worth-Arlington, TX",Nov-2001,2753679,-1.74,5.8217,2.61
+"Dallas-Fort Worth-Arlington, TX",Dec-2001,2760114,-2.12,5.8001,2.95
+"Dallas-Fort Worth-Arlington, TX",Jan-2002,2728653,-2.58,6.5544,2.98
+"Dallas-Fort Worth-Arlington, TX",Feb-2002,2754941,-1.65,6.3559,2.88
+"Dallas-Fort Worth-Arlington, TX",Mar-2002,2751774,-1.88,6.332,2.57
+"Dallas-Fort Worth-Arlington, TX",Apr-2002,2753593,-1.86,6.3424,2.51
+"Dallas-Fort Worth-Arlington, TX",May-2002,2753272,-1.38,6.2956,2.29
+"Dallas-Fort Worth-Arlington, TX",Jun-2002,2761215,-1.05,6.8812,2.07
+"Dallas-Fort Worth-Arlington, TX",Jul-2002,2764959,-1.21,6.7565,1.95
+"Dallas-Fort Worth-Arlington, TX",Aug-2002,2761701,0.1,6.6445,1.47
+"Dallas-Fort Worth-Arlington, TX",Sep-2002,2766618,-0.1,6.4185,1.22
+"Dallas-Fort Worth-Arlington, TX",Oct-2002,2773273,0.27,6.2843,0.88
+"Dallas-Fort Worth-Arlington, TX",Nov-2002,2758904,0.19,6.509,0.69
+"Dallas-Fort Worth-Arlington, TX",Dec-2002,2766664,0.24,6.2914,0.49
+"Dallas-Fort Worth-Arlington, TX",Jan-2003,2736181,0.28,6.9643,0.41
+"Dallas-Fort Worth-Arlington, TX",Feb-2003,2740754,-0.51,6.7933,0.44
+"Dallas-Fort Worth-Arlington, TX",Mar-2003,2739272,-0.45,6.6689,0.34
+"Dallas-Fort Worth-Arlington, TX",Apr-2003,2754808,0.04,6.5145,0.17
+"Dallas-Fort Worth-Arlington, TX",May-2003,2747359,-0.21,6.5965,0.3
+"Dallas-Fort Worth-Arlington, TX",Jun-2003,2759353,-0.07,7.4181,0.54
+"Dallas-Fort Worth-Arlington, TX",Jul-2003,2764803,-0.01,6.9985,0.24
+"Dallas-Fort Worth-Arlington, TX",Aug-2003,2752944,-0.32,6.7603,0.12
+"Dallas-Fort Worth-Arlington, TX",Sep-2003,2752160,-0.52,6.5701,0.15
+"Dallas-Fort Worth-Arlington, TX",Oct-2003,2777266,0.14,6.1953,-0.09
+"Dallas-Fort Worth-Arlington, TX",Nov-2003,2786349,0.99,6.0662,-0.44
+"Dallas-Fort Worth-Arlington, TX",Dec-2003,2794928,1.02,5.6332,-0.66
+"Dallas-Fort Worth-Arlington, TX",Jan-2004,2770550,1.26,6.3289,-0.64
+"Dallas-Fort Worth-Arlington, TX",Feb-2004,2773609,1.2,6.0005,-0.79
+"Dallas-Fort Worth-Arlington, TX",Mar-2004,2781001,1.52,6.0732,-0.6
+"Dallas-Fort Worth-Arlington, TX",Apr-2004,2796588,1.52,5.5761,-0.94
+"Dallas-Fort Worth-Arlington, TX",May-2004,2799771,1.91,5.5659,-1.03
+"Dallas-Fort Worth-Arlington, TX",Jun-2004,2796394,1.34,6.1732,-1.24
+"Dallas-Fort Worth-Arlington, TX",Jul-2004,2821207,2.04,5.9329,-1.07
+"Dallas-Fort Worth-Arlington, TX",Aug-2004,2806857,1.96,5.6159,-1.14
+"Dallas-Fort Worth-Arlington, TX",Sep-2004,2810078,2.1,5.5081,-1.06
+"Dallas-Fort Worth-Arlington, TX",Oct-2004,2837766,2.18,5.4282,-0.77
+"Dallas-Fort Worth-Arlington, TX",Nov-2004,2841643,1.98,5.5516,-0.51
+"Dallas-Fort Worth-Arlington, TX",Dec-2004,2846389,1.84,5.3,-0.33
+"Dallas-Fort Worth-Arlington, TX",Jan-2005,2806024,1.28,5.7816,-0.55
+"Dallas-Fort Worth-Arlington, TX",Feb-2005,2817108,1.57,5.7157,-0.28
+"Dallas-Fort Worth-Arlington, TX",Mar-2005,2824254,1.56,5.2613,-0.81
+"Dallas-Fort Worth-Arlington, TX",Apr-2005,2845559,1.75,5.0646,-0.51
+"Dallas-Fort Worth-Arlington, TX",May-2005,2851458,1.85,5.0572,-0.51
+"Dallas-Fort Worth-Arlington, TX",Jun-2005,2855144,2.1,5.4327,-0.74
+"Dallas-Fort Worth-Arlington, TX",Jul-2005,2876382,1.96,5.353,-0.58
+"Dallas-Fort Worth-Arlington, TX",Aug-2005,2882645,2.7,5.2029,-0.41
+"Dallas-Fort Worth-Arlington, TX",Sep-2005,2888878,2.8,5.1134,-0.39
+"Dallas-Fort Worth-Arlington, TX",Oct-2005,2921387,2.95,4.7587,-0.67
+"Dallas-Fort Worth-Arlington, TX",Nov-2005,2917734,2.68,5.0499,-0.5
+"Dallas-Fort Worth-Arlington, TX",Dec-2005,2916375,2.46,4.8039,-0.5
+"Dallas-Fort Worth-Arlington, TX",Jan-2006,2888195,2.93,5.0691,-0.71
+"Dallas-Fort Worth-Arlington, TX",Feb-2006,2891522,2.64,5.1182,-0.6
+"Dallas-Fort Worth-Arlington, TX",Mar-2006,2904378,2.84,4.8367,-0.42
+"Dallas-Fort Worth-Arlington, TX",Apr-2006,2922079,2.69,4.7119,-0.35
+"Dallas-Fort Worth-Arlington, TX",May-2006,2926206,2.62,4.7706,-0.29
+"Dallas-Fort Worth-Arlington, TX",Jun-2006,2934403,2.78,5.2068,-0.23
+"Dallas-Fort Worth-Arlington, TX",Jul-2006,2947004,2.46,5.1743,-0.18
+"Dallas-Fort Worth-Arlington, TX",Aug-2006,2949862,2.33,4.8477,-0.36
+"Dallas-Fort Worth-Arlington, TX",Sep-2006,2946019,1.98,4.6621,-0.45
+"Dallas-Fort Worth-Arlington, TX",Oct-2006,2971093,1.7,4.2946,-0.46
+"Dallas-Fort Worth-Arlington, TX",Nov-2006,2978949,2.1,4.3588,-0.69
+"Dallas-Fort Worth-Arlington, TX",Dec-2006,2982660,2.27,3.9978,-0.81
+"Dallas-Fort Worth-Arlington, TX",Jan-2007,2945921,2,4.67,-0.4
+"Dallas-Fort Worth-Arlington, TX",Feb-2007,2939930,1.67,4.4421,-0.68
+"Dallas-Fort Worth-Arlington, TX",Mar-2007,2960020,1.92,4.0323,-0.8
+"Dallas-Fort Worth-Arlington, TX",Apr-2007,2959606,1.28,3.9332,-0.78
+"Dallas-Fort Worth-Arlington, TX",May-2007,2959269,1.13,3.9761,-0.79
+"Dallas-Fort Worth-Arlington, TX",Jun-2007,2971967,1.28,4.5213,-0.69
+"Dallas-Fort Worth-Arlington, TX",Jul-2007,2980181,1.13,4.5867,-0.59
+"Dallas-Fort Worth-Arlington, TX",Aug-2007,2980235,1.03,4.2423,-0.61
+"Dallas-Fort Worth-Arlington, TX",Sep-2007,2988903,1.46,4.3072,-0.35
+"Dallas-Fort Worth-Arlington, TX",Oct-2007,2994176,0.78,4.0602,-0.23
+"Dallas-Fort Worth-Arlington, TX",Nov-2007,3013148,1.15,4.1004,-0.26
+"Dallas-Fort Worth-Arlington, TX",Dec-2007,3005252,0.76,4.1401,0.14
+"Dallas-Fort Worth-Arlington, TX",Jan-2008,2981582,1.21,4.5428,-0.13
+"Dallas-Fort Worth-Arlington, TX",Feb-2008,2981976,1.43,4.3416,-0.1
+"Dallas-Fort Worth-Arlington, TX",Mar-2008,2989088,0.98,4.2891,0.26
+"Dallas-Fort Worth-Arlington, TX",Apr-2008,3005347,1.55,3.9818,0.05
+"Dallas-Fort Worth-Arlington, TX",May-2008,3000561,1.4,4.4683,0.49
+"Dallas-Fort Worth-Arlington, TX",Jun-2008,3001913,1.01,5.0046,0.48
+"Dallas-Fort Worth-Arlington, TX",Jul-2008,3008438,0.95,5.1826,0.6
+"Dallas-Fort Worth-Arlington, TX",Aug-2008,2993195,0.43,5.2536,1.01
+"Dallas-Fort Worth-Arlington, TX",Sep-2008,2996487,0.25,5.1466,0.84
+"Dallas-Fort Worth-Arlington, TX",Oct-2008,3001105,0.23,5.2101,1.15
+"Dallas-Fort Worth-Arlington, TX",Nov-2008,2984494,-0.95,5.4259,1.33
+"Dallas-Fort Worth-Arlington, TX",Dec-2008,2970901,-1.14,5.6911,1.55
+"Dallas-Fort Worth-Arlington, TX",Jan-2009,2929686,-1.74,6.715,2.17
+"Dallas-Fort Worth-Arlington, TX",Feb-2009,2923983,-1.94,6.8144,2.47
+"Dallas-Fort Worth-Arlington, TX",Mar-2009,2923425,-2.2,6.7999,2.51
+"Dallas-Fort Worth-Arlington, TX",Apr-2009,2948516,-1.89,6.4147,2.43
+"Dallas-Fort Worth-Arlington, TX",May-2009,2936412,-2.14,7.5869,3.12
+"Dallas-Fort Worth-Arlington, TX",Jun-2009,2935997,-2.2,8.7363,3.73
+"Dallas-Fort Worth-Arlington, TX",Jul-2009,2952206,-1.87,8.7478,3.57
+"Dallas-Fort Worth-Arlington, TX",Aug-2009,2941924,-1.71,8.6015,3.35
+"Dallas-Fort Worth-Arlington, TX",Sep-2009,2936731,-1.99,8.5083,3.36
+"Dallas-Fort Worth-Arlington, TX",Oct-2009,2943910,-1.91,8.3436,3.13
+"Dallas-Fort Worth-Arlington, TX",Nov-2009,2949902,-1.16,8.1008,2.67
+"Dallas-Fort Worth-Arlington, TX",Dec-2009,2940721,-1.02,8.0476,2.36
+"Dallas-Fort Worth-Arlington, TX",Jan-2010,2967739,1.3,8.5553,1.84
+"Dallas-Fort Worth-Arlington, TX",Feb-2010,2979644,1.9,8.3677,1.55
+"Dallas-Fort Worth-Arlington, TX",Mar-2010,2995547,2.47,8.2611,1.46
+"Dallas-Fort Worth-Arlington, TX",Apr-2010,3037865,3.03,7.8834,1.47
+"Dallas-Fort Worth-Arlington, TX",May-2010,3033502,3.31,7.8551,0.27
+"Dallas-Fort Worth-Arlington, TX",Jun-2010,3029463,3.18,8.2987,-0.44
+"Dallas-Fort Worth-Arlington, TX",Jul-2010,3042840,3.07,8.3442,-0.4
+"Dallas-Fort Worth-Arlington, TX",Aug-2010,3050210,3.68,8.1287,-0.47
+"Dallas-Fort Worth-Arlington, TX",Sep-2010,3059705,4.19,7.9119,-0.6
+"Dallas-Fort Worth-Arlington, TX",Oct-2010,3067383,4.19,7.7395,-0.6
+"Dallas-Fort Worth-Arlington, TX",Nov-2010,3068905,4.03,7.9613,-0.14
+"Dallas-Fort Worth-Arlington, TX",Dec-2010,3077216,4.64,7.6339,-0.41
+"Dallas-Fort Worth-Arlington, TX",Jan-2011,3062184,3.18,8.061,-0.49
+"Dallas-Fort Worth-Arlington, TX",Feb-2011,3074626,3.19,7.7988,-0.57
+"Dallas-Fort Worth-Arlington, TX",Mar-2011,3093218,3.26,7.6182,-0.64
+"Dallas-Fort Worth-Arlington, TX",Apr-2011,3109327,2.35,7.2986,-0.58
+"Dallas-Fort Worth-Arlington, TX",May-2011,3113793,2.65,7.4496,-0.41
+"Dallas-Fort Worth-Arlington, TX",Jun-2011,3107376,2.57,8.1735,-0.13
+"Dallas-Fort Worth-Arlington, TX",Jul-2011,3115941,2.4,8.0366,-0.31
+"Dallas-Fort Worth-Arlington, TX",Aug-2011,3121108,2.32,7.8153,-0.31
+"Dallas-Fort Worth-Arlington, TX",Sep-2011,3141938,2.69,7.6486,-0.26
+"Dallas-Fort Worth-Arlington, TX",Oct-2011,3158083,2.96,7.2854,-0.45
+"Dallas-Fort Worth-Arlington, TX",Nov-2011,3165735,3.16,6.9058,-1.06
+"Dallas-Fort Worth-Arlington, TX",Dec-2011,3166390,2.9,6.7025,-0.93
+"Dallas-Fort Worth-Arlington, TX",Jan-2012,3142513,2.62,7.0716,-0.99
+"Dallas-Fort Worth-Arlington, TX",Feb-2012,3161632,2.83,6.9426,-0.86
+"Dallas-Fort Worth-Arlington, TX",Mar-2012,3173454,2.59,6.7398,-0.88
+"Dallas-Fort Worth-Arlington, TX",Apr-2012,3184611,2.42,6.2927,-1.01
+"Dallas-Fort Worth-Arlington, TX",May-2012,3191989,2.51,6.5527,-0.9
+"Dallas-Fort Worth-Arlington, TX",Jun-2012,3190105,2.66,7.1354,-1.04
+"Dallas-Fort Worth-Arlington, TX",Jul-2012,3188162,2.32,7.1301,-0.91
+"Dallas-Fort Worth-Arlington, TX",Aug-2012,3184607,2.03,6.7822,-1.03
+"Dallas-Fort Worth-Arlington, TX",Sep-2012,3217039,2.39,6.2438,-1.4
+"Dallas-Fort Worth-Arlington, TX",Oct-2012,3233864,2.4,6.14,-1.15
+"Dallas-Fort Worth-Arlington, TX",Nov-2012,3235151,2.19,5.934,-0.97
+"Dallas-Fort Worth-Arlington, TX",Dec-2012,3238936,2.29,5.9979,-0.7
+"Dallas-Fort Worth-Arlington, TX",Jan-2013,3212420,2.22,6.7849,-0.29
+"Dallas-Fort Worth-Arlington, TX",Feb-2013,3222558,1.93,6.3874,-0.56
+"Dallas-Fort Worth-Arlington, TX",Mar-2013,3233956,1.91,6.1587,-0.58
+"Dallas-Fort Worth-Arlington, TX",Apr-2013,3256085,2.24,5.8507,-0.44
+"Dallas-Fort Worth-Arlington, TX",May-2013,3265671,2.31,6.0455,-0.51
+"Dallas-Fort Worth-Arlington, TX",Jun-2013,3267054,2.41,6.6278,-0.51
+"Dallas-Fort Worth-Arlington, TX",Jul-2013,3276037,2.76,6.4025,-0.73
+"Dallas-Fort Worth-Arlington, TX",Aug-2013,3276466,2.88,6.1079,-0.67
+"Dallas-Fort Worth-Arlington, TX",Sep-2013,3294349,2.4,5.926,-0.32
+"Dallas-Fort Worth-Arlington, TX",Oct-2013,3276859,1.33,5.8337,-0.31
+"Dallas-Fort Worth-Arlington, TX",Nov-2013,3310920,2.34,5.5068,-0.43
+"Dallas-Fort Worth-Arlington, TX",Dec-2013,3313080,2.29,5.204,-0.79
+"Dallas-Fort Worth-Arlington, TX",Jan-2014,3302384,2.8,5.6076,-1.18
+"Dallas-Fort Worth-Arlington, TX",Feb-2014,3309584,2.7,5.5633,-0.82
+"Dallas-Fort Worth-Arlington, TX",Mar-2014,3330057,2.97,5.4005,-0.76
+"Dallas-Fort Worth-Arlington, TX",Apr-2014,3346457,2.78,4.7495,-1.1
+"Dallas-Fort Worth-Arlington, TX",May-2014,3347759,2.51,5.0068,-1.04
+"Dallas-Fort Worth-Arlington, TX",Jun-2014,3355408,2.7,5.3347,-1.29
+"Dallas-Fort Worth-Arlington, TX",Jul-2014,3358593,2.52,5.4578,-0.94
+"Dallas-Fort Worth-Arlington, TX",Aug-2014,3352455,2.32,5.2752,-0.83
+"Dallas-Fort Worth-Arlington, TX",Sep-2014,3365853,2.17,4.8465,-1.08
+"Dallas-Fort Worth-Arlington, TX",Oct-2014,3382799,3.23,4.5586,-1.28
+"Dallas-Fort Worth-Arlington, TX",Nov-2014,3388612,2.35,4.4499,-1.06
+"Dallas-Fort Worth-Arlington, TX",Dec-2014,3388134,2.27,4.056,-1.15
+"Dallas-Fort Worth-Arlington, TX",Jan-2015,3373257,2.15,4.5383,-1.07
+"Dallas-Fort Worth-Arlington, TX",Feb-2015,3381623,2.18,4.2354,-1.33
+"Dallas-Fort Worth-Arlington, TX",Mar-2015,3384136,1.62,4.0883,-1.31
+"Dallas-Fort Worth-Arlington, TX",Apr-2015,3417476,2.12,3.7477,-1
+"Dallas-Fort Worth-Arlington, TX",May-2015,3425341,2.32,3.9575,-1.05
+"Dallas-Fort Worth-Arlington, TX",Jun-2015,3424510,2.06,4.3085,-1.03
+"Dallas-Fort Worth-Arlington, TX",Jul-2015,3434417,2.26,4.3434,-1.11
+"Dallas-Fort Worth-Arlington, TX",Aug-2015,3434532,2.45,4.1035,-1.17
+"Dallas-Fort Worth-Arlington, TX",Sep-2015,3435993,2.08,4.0156,-0.83
+"Dallas-Fort Worth-Arlington, TX",Oct-2015,3452639,2.06,3.9535,-0.61
+"Dallas-Fort Worth-Arlington, TX",Nov-2015,3468939,2.37,3.8714,-0.58
+"Dallas-Fort Worth-Arlington, TX",Dec-2015,3477615,2.64,3.6319,-0.42
+"Dallas-Fort Worth-Arlington, TX",Jan-2016,3476085,3.05,3.877,-0.66
+"Dallas-Fort Worth-Arlington, TX",Feb-2016,3495866,3.38,3.7877,-0.45
+"Dallas-Fort Worth-Arlington, TX",Mar-2016,3506966,3.63,3.8095,-0.28
+"Dallas-Fort Worth-Arlington, TX",Apr-2016,3523506,3.1,3.5524,-0.2
+"Dallas-Fort Worth-Arlington, TX",May-2016,3528808,3.02,3.5543,-0.4
+"Dallas-Fort Worth-Arlington, TX",Jun-2016,3533154,3.17,4.1301,-0.18
+"Dallas-Fort Worth-Arlington, TX",Jul-2016,3555868,3.54,4.1892,-0.15
+"Dallas-Fort Worth-Arlington, TX",Aug-2016,3549469,3.35,4.0621,-0.04
+"Dallas-Fort Worth-Arlington, TX",Sep-2016,3571457,3.94,3.9957,-0.02
+"Dallas-Fort Worth-Arlington, TX",Oct-2016,3577785,3.62,3.8298,-0.12
+"Dallas-Fort Worth-Arlington, TX",Nov-2016,3600663,3.8,3.6966,-0.17
+"Dallas-Fort Worth-Arlington, TX",Dec-2016,3594633,3.36,3.6962,0.06
+"Dallas-Fort Worth-Arlington, TX",Jan-2017,3588823,3.24,4.0352,0.16
+"Dallas-Fort Worth-Arlington, TX",Feb-2017,3604725,3.11,4.3256,0.54
+"Dallas-Fort Worth-Arlington, TX",Mar-2017,3615946,3.11,4.2711,0.46
+"Dallas-Fort Worth-Arlington, TX",Apr-2017,3626602,2.93,3.8356,0.28
+"Dallas-Fort Worth-Arlington, TX",May-2017,3623444,2.68,3.7814,0.23
+"Dallas-Fort Worth-Arlington, TX",Jun-2017,3620487,2.47,4.0193,-0.11
+"Dallas-Fort Worth-Arlington, TX",Jul-2017,3641751,2.42,3.7411,-0.45
+"Houston-The Woodlands-Sugar Land, TX",Jan-1990,1864410,,5.1893,
+"Houston-The Woodlands-Sugar Land, TX",Feb-1990,1871541,,5.0474,
+"Houston-The Woodlands-Sugar Land, TX",Mar-1990,1893192,,4.7414,
+"Houston-The Woodlands-Sugar Land, TX",Apr-1990,1907236,,4.8109,
+"Houston-The Woodlands-Sugar Land, TX",May-1990,1925365,,4.8887,
+"Houston-The Woodlands-Sugar Land, TX",Jun-1990,1954496,,5.3292,
+"Houston-The Woodlands-Sugar Land, TX",Jul-1990,1968654,,5.3304,
+"Houston-The Woodlands-Sugar Land, TX",Aug-1990,1955283,,5.2775,
+"Houston-The Woodlands-Sugar Land, TX",Sep-1990,1946532,,5.4293,
+"Houston-The Woodlands-Sugar Land, TX",Oct-1990,1954689,,4.995,
+"Houston-The Woodlands-Sugar Land, TX",Nov-1990,1944622,,5.1697,
+"Houston-The Woodlands-Sugar Land, TX",Dec-1990,1955105,,4.9543,
+"Houston-The Woodlands-Sugar Land, TX",Jan-1991,1920651,,5.4884,
+"Houston-The Woodlands-Sugar Land, TX",Feb-1991,1924628,2.84,5.4258,0.38
+"Houston-The Woodlands-Sugar Land, TX",Mar-1991,1940736,2.51,5.3507,0.61
+"Houston-The Woodlands-Sugar Land, TX",Apr-1991,1959072,2.72,5.1012,0.29
+"Houston-The Woodlands-Sugar Land, TX",May-1991,1951714,1.37,5.5176,0.63
+"Houston-The Woodlands-Sugar Land, TX",Jun-1991,1986021,1.61,6.1099,0.78
+"Houston-The Woodlands-Sugar Land, TX",Jul-1991,1992943,1.23,5.954,0.62
+"Houston-The Woodlands-Sugar Land, TX",Aug-1991,1975535,1.04,5.9046,0.63
+"Houston-The Woodlands-Sugar Land, TX",Sep-1991,1971800,1.3,5.9599,0.53
+"Houston-The Woodlands-Sugar Land, TX",Oct-1991,1976808,1.13,5.8509,0.86
+"Houston-The Woodlands-Sugar Land, TX",Nov-1991,1973200,1.47,5.9505,0.78
+"Houston-The Woodlands-Sugar Land, TX",Dec-1991,1970806,0.8,5.9659,1.01
+"Houston-The Woodlands-Sugar Land, TX",Jan-1992,1949859,1.52,7.0531,1.56
+"Houston-The Woodlands-Sugar Land, TX",Feb-1992,1950510,1.34,6.981,1.56
+"Houston-The Woodlands-Sugar Land, TX",Mar-1992,1964042,1.2,6.8052,1.45
+"Houston-The Woodlands-Sugar Land, TX",Apr-1992,1978218,0.98,6.5465,1.45
+"Houston-The Woodlands-Sugar Land, TX",May-1992,1975863,1.24,7.0403,1.52
+"Houston-The Woodlands-Sugar Land, TX",Jun-1992,1999402,0.67,7.9899,1.88
+"Houston-The Woodlands-Sugar Land, TX",Jul-1992,2011543,0.93,7.6365,1.68
+"Houston-The Woodlands-Sugar Land, TX",Aug-1992,1996170,1.04,7.4694,1.56
+"Houston-The Woodlands-Sugar Land, TX",Sep-1992,1979355,0.38,7.4605,1.5
+"Houston-The Woodlands-Sugar Land, TX",Oct-1992,1982870,0.31,7.0655,1.21
+"Houston-The Woodlands-Sugar Land, TX",Nov-1992,1991280,0.92,7.3367,1.39
+"Houston-The Woodlands-Sugar Land, TX",Dec-1992,1998533,1.41,6.9965,1.03
+"Houston-The Woodlands-Sugar Land, TX",Jan-1993,1971555,1.11,7.7184,0.67
+"Houston-The Woodlands-Sugar Land, TX",Feb-1993,1970525,1.03,7.6768,0.7
+"Houston-The Woodlands-Sugar Land, TX",Mar-1993,1982847,0.96,7.2139,0.41
+"Houston-The Woodlands-Sugar Land, TX",Apr-1993,1988604,0.53,7.1074,0.56
+"Houston-The Woodlands-Sugar Land, TX",May-1993,2004246,1.44,7.1624,0.12
+"Houston-The Woodlands-Sugar Land, TX",Jun-1993,2023544,1.21,8.0551,0.07
+"Houston-The Woodlands-Sugar Land, TX",Jul-1993,2043176,1.57,7.7998,0.16
+"Houston-The Woodlands-Sugar Land, TX",Aug-1993,2035288,1.96,7.3938,-0.08
+"Houston-The Woodlands-Sugar Land, TX",Sep-1993,2019706,2.04,7.3853,-0.08
+"Houston-The Woodlands-Sugar Land, TX",Oct-1993,2034255,2.59,7.288,0.22
+"Houston-The Woodlands-Sugar Land, TX",Nov-1993,2040037,2.45,7.2023,-0.13
+"Houston-The Woodlands-Sugar Land, TX",Dec-1993,2054847,2.82,6.5405,-0.46
+"Houston-The Woodlands-Sugar Land, TX",Jan-1994,2024625,2.69,7.3698,-0.35
+"Houston-The Woodlands-Sugar Land, TX",Feb-1994,2031728,3.11,7.1322,-0.54
+"Houston-The Woodlands-Sugar Land, TX",Mar-1994,2038007,2.78,6.8891,-0.32
+"Houston-The Woodlands-Sugar Land, TX",Apr-1994,2048058,2.99,6.7456,-0.36
+"Houston-The Woodlands-Sugar Land, TX",May-1994,2053049,2.43,6.5479,-0.61
+"Houston-The Woodlands-Sugar Land, TX",Jun-1994,2057238,1.67,7.2655,-0.79
+"Houston-The Woodlands-Sugar Land, TX",Jul-1994,2066110,1.12,7.0475,-0.75
+"Houston-The Woodlands-Sugar Land, TX",Aug-1994,2068566,1.64,6.7837,-0.61
+"Houston-The Woodlands-Sugar Land, TX",Sep-1994,2055582,1.78,6.585,-0.8
+"Houston-The Woodlands-Sugar Land, TX",Oct-1994,2084237,2.46,6.1307,-1.16
+"Houston-The Woodlands-Sugar Land, TX",Nov-1994,2092315,2.56,5.9608,-1.24
+"Houston-The Woodlands-Sugar Land, TX",Dec-1994,2099019,2.15,5.3822,-1.16
+"Houston-The Woodlands-Sugar Land, TX",Jan-1995,2071104,2.3,6.1723,-1.2
+"Houston-The Woodlands-Sugar Land, TX",Feb-1995,2080248,2.39,5.6725,-1.46
+"Houston-The Woodlands-Sugar Land, TX",Mar-1995,2090639,2.58,5.5034,-1.39
+"Houston-The Woodlands-Sugar Land, TX",Apr-1995,2091292,2.11,5.8692,-0.88
+"Houston-The Woodlands-Sugar Land, TX",May-1995,2086710,1.64,5.8267,-0.72
+"Houston-The Woodlands-Sugar Land, TX",Jun-1995,2101208,2.14,6.4885,-0.78
+"Houston-The Woodlands-Sugar Land, TX",Jul-1995,2124849,2.84,6.4857,-0.56
+"Houston-The Woodlands-Sugar Land, TX",Aug-1995,2111145,2.06,6.2761,-0.51
+"Houston-The Woodlands-Sugar Land, TX",Sep-1995,2103098,2.31,6.1742,-0.41
+"Houston-The Woodlands-Sugar Land, TX",Oct-1995,2124470,1.93,5.6909,-0.44
+"Houston-The Woodlands-Sugar Land, TX",Nov-1995,2121147,1.38,5.6875,-0.27
+"Houston-The Woodlands-Sugar Land, TX",Dec-1995,2124309,1.2,5.3757,-0.01
+"Houston-The Woodlands-Sugar Land, TX",Jan-1996,2090951,0.96,6.0217,-0.15
+"Houston-The Woodlands-Sugar Land, TX",Feb-1996,2109176,1.39,5.593,-0.08
+"Houston-The Woodlands-Sugar Land, TX",Mar-1996,2118099,1.31,5.5178,0.01
+"Houston-The Woodlands-Sugar Land, TX",Apr-1996,2119406,1.34,5.3843,-0.48
+"Houston-The Woodlands-Sugar Land, TX",May-1996,2119155,1.55,5.5465,-0.28
+"Houston-The Woodlands-Sugar Land, TX",Jun-1996,2132378,1.48,5.8658,-0.62
+"Houston-The Woodlands-Sugar Land, TX",Jul-1996,2147475,1.06,5.8469,-0.64
+"Houston-The Woodlands-Sugar Land, TX",Aug-1996,2134104,1.09,5.4341,-0.84
+"Houston-The Woodlands-Sugar Land, TX",Sep-1996,2135055,1.52,5.3577,-0.82
+"Houston-The Woodlands-Sugar Land, TX",Oct-1996,2157712,1.56,5.0746,-0.62
+"Houston-The Woodlands-Sugar Land, TX",Nov-1996,2160785,1.87,5.353,-0.33
+"Houston-The Woodlands-Sugar Land, TX",Dec-1996,2160028,1.68,5.1889,-0.19
+"Houston-The Woodlands-Sugar Land, TX",Jan-1997,2147347,2.7,5.8739,-0.15
+"Houston-The Woodlands-Sugar Land, TX",Feb-1997,2153398,2.1,5.6965,0.1
+"Houston-The Woodlands-Sugar Land, TX",Mar-1997,2173128,2.6,5.6234,0.11
+"Houston-The Woodlands-Sugar Land, TX",Apr-1997,2171316,2.45,5.2404,-0.14
+"Houston-The Woodlands-Sugar Land, TX",May-1997,2181884,2.96,5.2083,-0.34
+"Houston-The Woodlands-Sugar Land, TX",Jun-1997,2188123,2.61,5.9596,0.09
+"Houston-The Woodlands-Sugar Land, TX",Jul-1997,2206155,2.73,5.5526,-0.29
+"Houston-The Woodlands-Sugar Land, TX",Aug-1997,2200795,3.13,5.2581,-0.18
+"Houston-The Woodlands-Sugar Land, TX",Sep-1997,2197628,2.93,5.1297,-0.23
+"Houston-The Woodlands-Sugar Land, TX",Oct-1997,2208822,2.37,4.6424,-0.43
+"Houston-The Woodlands-Sugar Land, TX",Nov-1997,2218269,2.66,4.4196,-0.93
+"Houston-The Woodlands-Sugar Land, TX",Dec-1997,2224336,2.98,4.1872,-1
+"Houston-The Woodlands-Sugar Land, TX",Jan-1998,2207793,2.81,4.7561,-1.12
+"Houston-The Woodlands-Sugar Land, TX",Feb-1998,2220577,3.12,4.421,-1.28
+"Houston-The Woodlands-Sugar Land, TX",Mar-1998,2240347,3.09,4.4481,-1.18
+"Houston-The Woodlands-Sugar Land, TX",Apr-1998,2242256,3.27,3.9638,-1.28
+"Houston-The Woodlands-Sugar Land, TX",May-1998,2249673,3.11,4.2593,-0.95
+"Houston-The Woodlands-Sugar Land, TX",Jun-1998,2262079,3.38,5.0609,-0.9
+"Houston-The Woodlands-Sugar Land, TX",Jul-1998,2280128,3.35,4.7989,-0.75
+"Houston-The Woodlands-Sugar Land, TX",Aug-1998,2273792,3.32,4.5979,-0.66
+"Houston-The Woodlands-Sugar Land, TX",Sep-1998,2276463,3.59,4.4479,-0.68
+"Houston-The Woodlands-Sugar Land, TX",Oct-1998,2281865,3.31,4.1267,-0.52
+"Houston-The Woodlands-Sugar Land, TX",Nov-1998,2288124,3.15,3.963,-0.46
+"Houston-The Woodlands-Sugar Land, TX",Dec-1998,2304516,3.6,3.7449,-0.44
+"Houston-The Woodlands-Sugar Land, TX",Jan-1999,2271195,2.87,4.3505,-0.41
+"Houston-The Woodlands-Sugar Land, TX",Feb-1999,2272711,2.35,4.3136,-0.11
+"Houston-The Woodlands-Sugar Land, TX",Mar-1999,2284077,1.95,4.1864,-0.26
+"Houston-The Woodlands-Sugar Land, TX",Apr-1999,2265815,1.05,4.5016,0.54
+"Houston-The Woodlands-Sugar Land, TX",May-1999,2273542,1.06,4.6636,0.4
+"Houston-The Woodlands-Sugar Land, TX",Jun-1999,2280923,0.83,5.4259,0.36
+"Houston-The Woodlands-Sugar Land, TX",Jul-1999,2285391,0.23,5.3902,0.59
+"Houston-The Woodlands-Sugar Land, TX",Aug-1999,2277998,0.18,5.0986,0.5
+"Houston-The Woodlands-Sugar Land, TX",Sep-1999,2281384,0.22,5.1567,0.71
+"Houston-The Woodlands-Sugar Land, TX",Oct-1999,2288064,0.27,4.8088,0.68
+"Houston-The Woodlands-Sugar Land, TX",Nov-1999,2295858,0.34,4.6967,0.73
+"Houston-The Woodlands-Sugar Land, TX",Dec-1999,2310157,0.24,4.3727,0.63
+"Houston-The Woodlands-Sugar Land, TX",Jan-2000,2263179,-0.35,4.7652,0.41
+"Houston-The Woodlands-Sugar Land, TX",Feb-2000,2277929,0.23,4.6518,0.34
+"Houston-The Woodlands-Sugar Land, TX",Mar-2000,2287111,0.13,4.4853,0.3
+"Houston-The Woodlands-Sugar Land, TX",Apr-2000,2294072,1.25,3.9967,-0.5
+"Houston-The Woodlands-Sugar Land, TX",May-2000,2268392,-0.23,4.2672,-0.4
+"Houston-The Woodlands-Sugar Land, TX",Jun-2000,2271843,-0.4,4.6629,-0.76
+"Houston-The Woodlands-Sugar Land, TX",Jul-2000,2269707,-0.69,4.5136,-0.88
+"Houston-The Woodlands-Sugar Land, TX",Aug-2000,2262971,-0.66,4.4458,-0.65
+"Houston-The Woodlands-Sugar Land, TX",Sep-2000,2272638,-0.38,4.1739,-0.98
+"Houston-The Woodlands-Sugar Land, TX",Oct-2000,2295165,0.31,3.7853,-1.02
+"Houston-The Woodlands-Sugar Land, TX",Nov-2000,2303904,0.35,3.7712,-0.93
+"Houston-The Woodlands-Sugar Land, TX",Dec-2000,2321374,0.49,3.3067,-1.07
+"Houston-The Woodlands-Sugar Land, TX",Jan-2001,2305132,1.85,4.0382,-0.73
+"Houston-The Woodlands-Sugar Land, TX",Feb-2001,2318695,1.79,3.7929,-0.86
+"Houston-The Woodlands-Sugar Land, TX",Mar-2001,2321972,1.52,3.9942,-0.49
+"Houston-The Woodlands-Sugar Land, TX",Apr-2001,2320856,1.17,4.0383,0.04
+"Houston-The Woodlands-Sugar Land, TX",May-2001,2311952,1.92,4.1726,-0.09
+"Houston-The Woodlands-Sugar Land, TX",Jun-2001,2305108,1.46,5.0792,0.42
+"Houston-The Woodlands-Sugar Land, TX",Jul-2001,2322065,2.31,4.887,0.37
+"Houston-The Woodlands-Sugar Land, TX",Aug-2001,2290783,1.23,5.1176,0.67
+"Houston-The Woodlands-Sugar Land, TX",Sep-2001,2316038,1.91,4.9563,0.78
+"Houston-The Woodlands-Sugar Land, TX",Oct-2001,2325014,1.3,4.975,1.19
+"Houston-The Woodlands-Sugar Land, TX",Nov-2001,2331165,1.18,5.1122,1.34
+"Houston-The Woodlands-Sugar Land, TX",Dec-2001,2341453,0.86,5.0812,1.77
+"Houston-The Woodlands-Sugar Land, TX",Jan-2002,2311099,0.26,5.856,1.82
+"Houston-The Woodlands-Sugar Land, TX",Feb-2002,2340499,0.94,5.6092,1.82
+"Houston-The Woodlands-Sugar Land, TX",Mar-2002,2335986,0.6,5.6536,1.66
+"Houston-The Woodlands-Sugar Land, TX",Apr-2002,2336852,0.69,5.7974,1.76
+"Houston-The Woodlands-Sugar Land, TX",May-2002,2338340,1.14,5.8582,1.69
+"Houston-The Woodlands-Sugar Land, TX",Jun-2002,2345868,1.77,6.6419,1.56
+"Houston-The Woodlands-Sugar Land, TX",Jul-2002,2349953,1.2,6.4612,1.57
+"Houston-The Woodlands-Sugar Land, TX",Aug-2002,2346546,2.43,6.3078,1.19
+"Houston-The Woodlands-Sugar Land, TX",Sep-2002,2356616,1.75,6.1121,1.16
+"Houston-The Woodlands-Sugar Land, TX",Oct-2002,2367520,1.83,5.9451,0.97
+"Houston-The Woodlands-Sugar Land, TX",Nov-2002,2358677,1.18,6.1689,1.06
+"Houston-The Woodlands-Sugar Land, TX",Dec-2002,2374556,1.41,5.9468,0.87
+"Houston-The Woodlands-Sugar Land, TX",Jan-2003,2359336,2.09,6.6995,0.84
+"Houston-The Woodlands-Sugar Land, TX",Feb-2003,2366371,1.11,6.5957,0.99
+"Houston-The Woodlands-Sugar Land, TX",Mar-2003,2365119,1.25,6.5129,0.86
+"Houston-The Woodlands-Sugar Land, TX",Apr-2003,2368625,1.36,6.5221,0.72
+"Houston-The Woodlands-Sugar Land, TX",May-2003,2356859,0.79,6.706,0.85
+"Houston-The Woodlands-Sugar Land, TX",Jun-2003,2363032,0.73,7.6184,0.98
+"Houston-The Woodlands-Sugar Land, TX",Jul-2003,2358717,0.37,7.2349,0.77
+"Houston-The Woodlands-Sugar Land, TX",Aug-2003,2357104,0.45,7.0133,0.71
+"Houston-The Woodlands-Sugar Land, TX",Sep-2003,2356920,0.01,6.8392,0.73
+"Houston-The Woodlands-Sugar Land, TX",Oct-2003,2370330,0.12,6.4545,0.51
+"Houston-The Woodlands-Sugar Land, TX",Nov-2003,2376602,0.76,6.4343,0.27
+"Houston-The Woodlands-Sugar Land, TX",Dec-2003,2391428,0.71,5.9334,-0.01
+"Houston-The Woodlands-Sugar Land, TX",Jan-2004,2376529,0.73,6.6092,-0.09
+"Houston-The Woodlands-Sugar Land, TX",Feb-2004,2386402,0.85,6.241,-0.35
+"Houston-The Woodlands-Sugar Land, TX",Mar-2004,2391293,1.11,6.3497,-0.16
+"Houston-The Woodlands-Sugar Land, TX",Apr-2004,2386978,0.77,5.9329,-0.59
+"Houston-The Woodlands-Sugar Land, TX",May-2004,2386080,1.24,5.9895,-0.72
+"Houston-The Woodlands-Sugar Land, TX",Jun-2004,2385502,0.95,6.665,-0.95
+"Houston-The Woodlands-Sugar Land, TX",Jul-2004,2399076,1.71,6.4466,-0.79
+"Houston-The Woodlands-Sugar Land, TX",Aug-2004,2390333,1.41,6.0827,-0.93
+"Houston-The Woodlands-Sugar Land, TX",Sep-2004,2393430,1.55,5.923,-0.92
+"Houston-The Woodlands-Sugar Land, TX",Oct-2004,2411796,1.75,5.8045,-0.65
+"Houston-The Woodlands-Sugar Land, TX",Nov-2004,2422559,1.93,5.8792,-0.56
+"Houston-The Woodlands-Sugar Land, TX",Dec-2004,2431017,1.66,5.6655,-0.27
+"Houston-The Woodlands-Sugar Land, TX",Jan-2005,2409190,1.37,5.9462,-0.66
+"Houston-The Woodlands-Sugar Land, TX",Feb-2005,2415239,1.21,5.9232,-0.32
+"Houston-The Woodlands-Sugar Land, TX",Mar-2005,2425432,1.43,5.4375,-0.91
+"Houston-The Woodlands-Sugar Land, TX",Apr-2005,2428685,1.75,5.2316,-0.7
+"Houston-The Woodlands-Sugar Land, TX",May-2005,2431818,1.92,5.289,-0.7
+"Houston-The Woodlands-Sugar Land, TX",Jun-2005,2433373,2.01,5.7465,-0.92
+"Houston-The Woodlands-Sugar Land, TX",Jul-2005,2442594,1.81,5.628,-0.82
+"Houston-The Woodlands-Sugar Land, TX",Aug-2005,2450824,2.53,5.442,-0.64
+"Houston-The Woodlands-Sugar Land, TX",Sep-2005,2463861,2.94,5.8439,-0.08
+"Houston-The Woodlands-Sugar Land, TX",Oct-2005,2486603,3.1,5.478,-0.33
+"Houston-The Woodlands-Sugar Land, TX",Nov-2005,2486893,2.66,5.7845,-0.09
+"Houston-The Woodlands-Sugar Land, TX",Dec-2005,2500879,2.87,5.3507,-0.31
+"Houston-The Woodlands-Sugar Land, TX",Jan-2006,2477343,2.83,5.6628,-0.28
+"Houston-The Woodlands-Sugar Land, TX",Feb-2006,2490843,3.13,5.5973,-0.33
+"Houston-The Woodlands-Sugar Land, TX",Mar-2006,2507404,3.38,5.0394,-0.4
+"Houston-The Woodlands-Sugar Land, TX",Apr-2006,2503933,3.1,4.9609,-0.27
+"Houston-The Woodlands-Sugar Land, TX",May-2006,2507748,3.12,4.994,-0.29
+"Houston-The Woodlands-Sugar Land, TX",Jun-2006,2512978,3.27,5.4591,-0.29
+"Houston-The Woodlands-Sugar Land, TX",Jul-2006,2525503,3.39,5.3729,-0.26
+"Houston-The Woodlands-Sugar Land, TX",Aug-2006,2533258,3.36,5.013,-0.43
+"Houston-The Woodlands-Sugar Land, TX",Sep-2006,2542020,3.17,4.7871,-1.06
+"Houston-The Woodlands-Sugar Land, TX",Oct-2006,2569434,3.33,4.3366,-1.14
+"Houston-The Woodlands-Sugar Land, TX",Nov-2006,2576332,3.6,4.3971,-1.39
+"Houston-The Woodlands-Sugar Land, TX",Dec-2006,2584580,3.35,4.0189,-1.33
+"Houston-The Woodlands-Sugar Land, TX",Jan-2007,2555070,3.14,4.6001,-1.06
+"Houston-The Woodlands-Sugar Land, TX",Feb-2007,2555420,2.59,4.3909,-1.21
+"Houston-The Woodlands-Sugar Land, TX",Mar-2007,2571153,2.54,3.9994,-1.04
+"Houston-The Woodlands-Sugar Land, TX",Apr-2007,2569844,2.63,3.8909,-1.07
+"Houston-The Woodlands-Sugar Land, TX",May-2007,2574048,2.64,3.9116,-1.08
+"Houston-The Woodlands-Sugar Land, TX",Jun-2007,2590281,3.08,4.4978,-0.96
+"Houston-The Woodlands-Sugar Land, TX",Jul-2007,2604189,3.12,4.524,-0.85
+"Houston-The Woodlands-Sugar Land, TX",Aug-2007,2589806,2.23,4.2639,-0.75
+"Houston-The Woodlands-Sugar Land, TX",Sep-2007,2601071,2.32,4.2955,-0.49
+"Houston-The Woodlands-Sugar Land, TX",Oct-2007,2613703,1.72,3.9734,-0.36
+"Houston-The Woodlands-Sugar Land, TX",Nov-2007,2626795,1.96,4.0398,-0.36
+"Houston-The Woodlands-Sugar Land, TX",Dec-2007,2620646,1.4,4.1232,0.1
+"Houston-The Woodlands-Sugar Land, TX",Jan-2008,2605154,1.96,4.4707,-0.13
+"Houston-The Woodlands-Sugar Land, TX",Feb-2008,2606746,2.01,4.184,-0.21
+"Houston-The Woodlands-Sugar Land, TX",Mar-2008,2620307,1.91,4.1207,0.12
+"Houston-The Woodlands-Sugar Land, TX",Apr-2008,2640838,2.76,3.8066,-0.08
+"Houston-The Woodlands-Sugar Land, TX",May-2008,2634108,2.33,4.2864,0.37
+"Houston-The Woodlands-Sugar Land, TX",Jun-2008,2644576,2.1,4.903,0.41
+"Houston-The Woodlands-Sugar Land, TX",Jul-2008,2660516,2.16,5.0029,0.48
+"Houston-The Woodlands-Sugar Land, TX",Aug-2008,2645818,2.16,5.0496,0.79
+"Houston-The Woodlands-Sugar Land, TX",Sep-2008,2637347,1.39,4.9807,0.69
+"Houston-The Woodlands-Sugar Land, TX",Oct-2008,2660135,1.78,5.1025,1.13
+"Houston-The Woodlands-Sugar Land, TX",Nov-2008,2658915,1.22,5.1795,1.14
+"Houston-The Woodlands-Sugar Land, TX",Dec-2008,2653221,1.24,5.3136,1.19
+"Houston-The Woodlands-Sugar Land, TX",Jan-2009,2621236,0.62,6.1563,1.69
+"Houston-The Woodlands-Sugar Land, TX",Feb-2009,2620186,0.52,6.3009,2.12
+"Houston-The Woodlands-Sugar Land, TX",Mar-2009,2618371,-0.07,6.3217,2.2
+"Houston-The Woodlands-Sugar Land, TX",Apr-2009,2626400,-0.55,6.0567,2.25
+"Houston-The Woodlands-Sugar Land, TX",May-2009,2616211,-0.68,7.2655,2.98
+"Houston-The Woodlands-Sugar Land, TX",Jun-2009,2616129,-1.08,8.4075,3.5
+"Houston-The Woodlands-Sugar Land, TX",Jul-2009,2627770,-1.23,8.5945,3.59
+"Houston-The Woodlands-Sugar Land, TX",Aug-2009,2610203,-1.35,8.495,3.45
+"Houston-The Woodlands-Sugar Land, TX",Sep-2009,2607681,-1.12,8.4714,3.49
+"Houston-The Woodlands-Sugar Land, TX",Oct-2009,2611739,-1.82,8.3268,3.22
+"Houston-The Woodlands-Sugar Land, TX",Nov-2009,2618419,-1.52,8.1689,2.99
+"Houston-The Woodlands-Sugar Land, TX",Dec-2009,2610757,-1.6,8.1928,2.88
+"Houston-The Woodlands-Sugar Land, TX",Jan-2010,2667279,1.76,8.6938,2.54
+"Houston-The Woodlands-Sugar Land, TX",Feb-2010,2682269,2.37,8.4567,2.16
+"Houston-The Woodlands-Sugar Land, TX",Mar-2010,2693525,2.87,8.3793,2.06
+"Houston-The Woodlands-Sugar Land, TX",Apr-2010,2732850,4.05,8.0037,1.95
+"Houston-The Woodlands-Sugar Land, TX",May-2010,2726024,4.2,8.0086,0.74
+"Houston-The Woodlands-Sugar Land, TX",Jun-2010,2717804,3.89,8.5111,0.1
+"Houston-The Woodlands-Sugar Land, TX",Jul-2010,2733835,4.04,8.5419,-0.05
+"Houston-The Woodlands-Sugar Land, TX",Aug-2010,2736295,4.83,8.3364,-0.16
+"Houston-The Woodlands-Sugar Land, TX",Sep-2010,2749134,5.42,8.1065,-0.36
+"Houston-The Woodlands-Sugar Land, TX",Oct-2010,2747341,5.19,7.9727,-0.35
+"Houston-The Woodlands-Sugar Land, TX",Nov-2010,2751643,5.09,8.2479,0.08
+"Houston-The Woodlands-Sugar Land, TX",Dec-2010,2759381,5.69,7.9308,-0.26
+"Houston-The Woodlands-Sugar Land, TX",Jan-2011,2751976,3.18,8.3491,-0.34
+"Houston-The Woodlands-Sugar Land, TX",Feb-2011,2766840,3.15,8.0318,-0.42
+"Houston-The Woodlands-Sugar Land, TX",Mar-2011,2782075,3.29,7.8216,-0.56
+"Houston-The Woodlands-Sugar Land, TX",Apr-2011,2794696,2.26,7.5473,-0.46
+"Houston-The Woodlands-Sugar Land, TX",May-2011,2793866,2.49,7.7274,-0.28
+"Houston-The Woodlands-Sugar Land, TX",Jun-2011,2789573,2.64,8.45,-0.06
+"Houston-The Woodlands-Sugar Land, TX",Jul-2011,2797155,2.32,8.3186,-0.22
+"Houston-The Woodlands-Sugar Land, TX",Aug-2011,2798516,2.27,8.0729,-0.26
+"Houston-The Woodlands-Sugar Land, TX",Sep-2011,2823078,2.69,7.892,-0.21
+"Houston-The Woodlands-Sugar Land, TX",Oct-2011,2838583,3.32,7.456,-0.52
+"Houston-The Woodlands-Sugar Land, TX",Nov-2011,2849391,3.55,7.1235,-1.12
+"Houston-The Woodlands-Sugar Land, TX",Dec-2011,2857943,3.57,6.9574,-0.97
+"Houston-The Woodlands-Sugar Land, TX",Jan-2012,2841639,3.26,7.2497,-1.1
+"Houston-The Woodlands-Sugar Land, TX",Feb-2012,2862776,3.47,7.0182,-1.01
+"Houston-The Woodlands-Sugar Land, TX",Mar-2012,2879461,3.5,6.7138,-1.11
+"Houston-The Woodlands-Sugar Land, TX",Apr-2012,2886316,3.28,6.3384,-1.21
+"Houston-The Woodlands-Sugar Land, TX",May-2012,2895719,3.65,6.5954,-1.13
+"Houston-The Woodlands-Sugar Land, TX",Jun-2012,2896850,3.85,7.2099,-1.24
+"Houston-The Woodlands-Sugar Land, TX",Jul-2012,2907139,3.93,7.1531,-1.17
+"Houston-The Woodlands-Sugar Land, TX",Aug-2012,2900516,3.64,6.7489,-1.32
+"Houston-The Woodlands-Sugar Land, TX",Sep-2012,2938102,4.07,6.2294,-1.66
+"Houston-The Woodlands-Sugar Land, TX",Oct-2012,2956113,4.14,6.0727,-1.38
+"Houston-The Woodlands-Sugar Land, TX",Nov-2012,2955652,3.73,5.8935,-1.23
+"Houston-The Woodlands-Sugar Land, TX",Dec-2012,2961475,3.62,6.0193,-0.94
+"Houston-The Woodlands-Sugar Land, TX",Jan-2013,2949830,3.81,6.6591,-0.59
+"Houston-The Woodlands-Sugar Land, TX",Feb-2013,2970103,3.75,6.2296,-0.79
+"Houston-The Woodlands-Sugar Land, TX",Mar-2013,2979395,3.47,5.9534,-0.76
+"Houston-The Woodlands-Sugar Land, TX",Apr-2013,2994634,3.75,5.7239,-0.61
+"Houston-The Woodlands-Sugar Land, TX",May-2013,2997612,3.52,5.9664,-0.63
+"Houston-The Woodlands-Sugar Land, TX",Jun-2013,2992555,3.3,6.5581,-0.65
+"Houston-The Woodlands-Sugar Land, TX",Jul-2013,3003687,3.32,6.3749,-0.78
+"Houston-The Woodlands-Sugar Land, TX",Aug-2013,2990559,3.1,6.1063,-0.64
+"Houston-The Woodlands-Sugar Land, TX",Sep-2013,3008768,2.41,5.9142,-0.32
+"Houston-The Woodlands-Sugar Land, TX",Oct-2013,3000524,1.5,5.7407,-0.33
+"Houston-The Woodlands-Sugar Land, TX",Nov-2013,3024727,2.34,5.4778,-0.42
+"Houston-The Woodlands-Sugar Land, TX",Dec-2013,3031922,2.38,5.181,-0.84
+"Houston-The Woodlands-Sugar Land, TX",Jan-2014,3029776,2.71,5.5094,-1.15
+"Houston-The Woodlands-Sugar Land, TX",Feb-2014,3044762,2.51,5.4423,-0.79
+"Houston-The Woodlands-Sugar Land, TX",Mar-2014,3062688,2.8,5.2348,-0.72
+"Houston-The Woodlands-Sugar Land, TX",Apr-2014,3070834,2.54,4.6078,-1.12
+"Houston-The Woodlands-Sugar Land, TX",May-2014,3071936,2.48,4.9013,-1.07
+"Houston-The Woodlands-Sugar Land, TX",Jun-2014,3071435,2.64,5.2881,-1.27
+"Houston-The Woodlands-Sugar Land, TX",Jul-2014,3080181,2.55,5.4231,-0.95
+"Houston-The Woodlands-Sugar Land, TX",Aug-2014,3066416,2.54,5.2094,-0.9
+"Houston-The Woodlands-Sugar Land, TX",Sep-2014,3085509,2.55,4.7945,-1.12
+"Houston-The Woodlands-Sugar Land, TX",Oct-2014,3105380,3.49,4.4677,-1.27
+"Houston-The Woodlands-Sugar Land, TX",Nov-2014,3104417,2.63,4.4182,-1.06
+"Houston-The Woodlands-Sugar Land, TX",Dec-2014,3101561,2.3,4.0893,-1.09
+"Houston-The Woodlands-Sugar Land, TX",Jan-2015,3091530,2.04,4.5934,-0.92
+"Houston-The Woodlands-Sugar Land, TX",Feb-2015,3097875,1.74,4.3908,-1.05
+"Houston-The Woodlands-Sugar Land, TX",Mar-2015,3100423,1.23,4.2779,-0.96
+"Houston-The Woodlands-Sugar Land, TX",Apr-2015,3110678,1.3,4.0883,-0.52
+"Houston-The Woodlands-Sugar Land, TX",May-2015,3107394,1.15,4.3813,-0.52
+"Houston-The Woodlands-Sugar Land, TX",Jun-2015,3095487,0.78,4.831,-0.46
+"Houston-The Woodlands-Sugar Land, TX",Jul-2015,3097331,0.56,5.0036,-0.42
+"Houston-The Woodlands-Sugar Land, TX",Aug-2015,3085046,0.61,4.8592,-0.35
+"Houston-The Woodlands-Sugar Land, TX",Sep-2015,3086880,0.04,4.7712,-0.02
+"Houston-The Woodlands-Sugar Land, TX",Oct-2015,3097785,-0.24,4.7294,0.26
+"Houston-The Woodlands-Sugar Land, TX",Nov-2015,3101138,-0.11,4.7942,0.38
+"Houston-The Woodlands-Sugar Land, TX",Dec-2015,3103477,0.06,4.6058,0.52
+"Houston-The Woodlands-Sugar Land, TX",Jan-2016,3103702,0.39,4.8957,0.3
+"Houston-The Woodlands-Sugar Land, TX",Feb-2016,3114802,0.55,4.8122,0.42
+"Houston-The Woodlands-Sugar Land, TX",Mar-2016,3120190,0.64,4.9267,0.65
+"Houston-The Woodlands-Sugar Land, TX",Apr-2016,3119401,0.28,4.8407,0.75
+"Houston-The Woodlands-Sugar Land, TX",May-2016,3113967,0.21,4.8835,0.5
+"Houston-The Woodlands-Sugar Land, TX",Jun-2016,3110114,0.47,5.6362,0.81
+"Houston-The Woodlands-Sugar Land, TX",Jul-2016,3120296,0.74,5.7537,0.75
+"Houston-The Woodlands-Sugar Land, TX",Aug-2016,3099024,0.45,5.7162,0.86
+"Houston-The Woodlands-Sugar Land, TX",Sep-2016,3114187,0.88,5.6533,0.88
+"Houston-The Woodlands-Sugar Land, TX",Oct-2016,3118290,0.66,5.3294,0.6
+"Houston-The Woodlands-Sugar Land, TX",Nov-2016,3123308,0.71,5.2226,0.43
+"Houston-The Woodlands-Sugar Land, TX",Dec-2016,3124956,0.69,5.2917,0.69
+"Houston-The Woodlands-Sugar Land, TX",Jan-2017,3108513,0.16,5.7493,0.85
+"Houston-The Woodlands-Sugar Land, TX",Feb-2017,3125740,0.35,5.9165,1.1
+"Houston-The Woodlands-Sugar Land, TX",Mar-2017,3138857,0.6,5.7089,0.78
+"Houston-The Woodlands-Sugar Land, TX",Apr-2017,3160066,1.3,5.2681,0.43
+"Houston-The Woodlands-Sugar Land, TX",May-2017,3145949,1.03,5.0572,0.17
+"Houston-The Woodlands-Sugar Land, TX",Jun-2017,3146989,1.19,5.309,-0.33
+"Houston-The Woodlands-Sugar Land, TX",Jul-2017,3156971,1.18,4.8995,-0.85
+"San Antonio-New Braunfels, TX",Jan-1990,615416,,6.6774,
+"San Antonio-New Braunfels, TX",Feb-1990,616067,,6.6206,
+"San Antonio-New Braunfels, TX",Mar-1990,620621,,6.3951,
+"San Antonio-New Braunfels, TX",Apr-1990,622891,,6.4832,
+"San Antonio-New Braunfels, TX",May-1990,624753,,6.7876,
+"San Antonio-New Braunfels, TX",Jun-1990,630819,,7.2659,
+"San Antonio-New Braunfels, TX",Jul-1990,626768,,7.2658,
+"San Antonio-New Braunfels, TX",Aug-1990,621835,,7.2678,
+"San Antonio-New Braunfels, TX",Sep-1990,624299,,7.29,
+"San Antonio-New Braunfels, TX",Oct-1990,628227,,6.7629,
+"San Antonio-New Braunfels, TX",Nov-1990,624672,,7.0292,
+"San Antonio-New Braunfels, TX",Dec-1990,623147,,6.7816,
+"San Antonio-New Braunfels, TX",Jan-1991,615101,,7.3625,
+"San Antonio-New Braunfels, TX",Feb-1991,616789,0.12,7.0421,0.42
+"San Antonio-New Braunfels, TX",Mar-1991,622919,0.37,6.6556,0.26
+"San Antonio-New Braunfels, TX",Apr-1991,628866,0.96,6.3115,-0.17
+"San Antonio-New Braunfels, TX",May-1991,625509,0.12,6.4297,-0.36
+"San Antonio-New Braunfels, TX",Jun-1991,633847,0.48,7.0807,-0.19
+"San Antonio-New Braunfels, TX",Jul-1991,637361,1.69,6.7424,-0.52
+"San Antonio-New Braunfels, TX",Aug-1991,634157,1.98,6.4087,-0.86
+"San Antonio-New Braunfels, TX",Sep-1991,643669,3.1,6.2031,-1.09
+"San Antonio-New Braunfels, TX",Oct-1991,643132,2.37,6.1843,-0.58
+"San Antonio-New Braunfels, TX",Nov-1991,643052,2.94,6.1741,-0.86
+"San Antonio-New Braunfels, TX",Dec-1991,641697,2.98,5.9775,-0.8
+"San Antonio-New Braunfels, TX",Jan-1992,632908,2.89,6.7537,-0.61
+"San Antonio-New Braunfels, TX",Feb-1992,637699,3.39,6.5307,-0.51
+"San Antonio-New Braunfels, TX",Mar-1992,645636,3.65,6.1993,-0.46
+"San Antonio-New Braunfels, TX",Apr-1992,655548,4.24,5.8337,-0.48
+"San Antonio-New Braunfels, TX",May-1992,657252,5.07,6.1707,-0.26
+"San Antonio-New Braunfels, TX",Jun-1992,664614,4.85,7.0233,-0.06
+"San Antonio-New Braunfels, TX",Jul-1992,670748,5.24,6.5059,-0.24
+"San Antonio-New Braunfels, TX",Aug-1992,666482,5.1,6.1556,-0.25
+"San Antonio-New Braunfels, TX",Sep-1992,665306,3.36,6.0712,-0.13
+"San Antonio-New Braunfels, TX",Oct-1992,666227,3.59,5.7224,-0.46
+"San Antonio-New Braunfels, TX",Nov-1992,668885,4.02,5.8442,-0.33
+"San Antonio-New Braunfels, TX",Dec-1992,670094,4.43,5.5098,-0.47
+"San Antonio-New Braunfels, TX",Jan-1993,662820,4.73,6.0336,-0.72
+"San Antonio-New Braunfels, TX",Feb-1993,669136,4.93,5.8229,-0.71
+"San Antonio-New Braunfels, TX",Mar-1993,674814,4.52,5.3297,-0.87
+"San Antonio-New Braunfels, TX",Apr-1993,678878,3.56,5.0662,-0.77
+"San Antonio-New Braunfels, TX",May-1993,684782,4.19,5.1204,-1.05
+"San Antonio-New Braunfels, TX",Jun-1993,688345,3.57,5.9165,-1.11
+"San Antonio-New Braunfels, TX",Jul-1993,692061,3.18,5.6959,-0.81
+"San Antonio-New Braunfels, TX",Aug-1993,689573,3.46,5.3749,-0.78
+"San Antonio-New Braunfels, TX",Sep-1993,686647,3.21,5.3593,-0.71
+"San Antonio-New Braunfels, TX",Oct-1993,691782,3.84,5.1835,-0.54
+"San Antonio-New Braunfels, TX",Nov-1993,694147,3.78,4.8965,-0.95
+"San Antonio-New Braunfels, TX",Dec-1993,697228,4.05,4.574,-0.94
+"San Antonio-New Braunfels, TX",Jan-1994,691301,4.3,5.2709,-0.76
+"San Antonio-New Braunfels, TX",Feb-1994,698273,4.35,5.0023,-0.82
+"San Antonio-New Braunfels, TX",Mar-1994,702527,4.11,4.6865,-0.64
+"San Antonio-New Braunfels, TX",Apr-1994,707829,4.26,4.3992,-0.67
+"San Antonio-New Braunfels, TX",May-1994,709757,3.65,4.2685,-0.85
+"San Antonio-New Braunfels, TX",Jun-1994,709287,3.04,4.9821,-0.93
+"San Antonio-New Braunfels, TX",Jul-1994,714118,3.19,4.84,-0.86
+"San Antonio-New Braunfels, TX",Aug-1994,711053,3.11,4.7663,-0.61
+"San Antonio-New Braunfels, TX",Sep-1994,712614,3.78,4.4492,-0.91
+"San Antonio-New Braunfels, TX",Oct-1994,722336,4.42,4.217,-0.97
+"San Antonio-New Braunfels, TX",Nov-1994,724556,4.38,4.0694,-0.83
+"San Antonio-New Braunfels, TX",Dec-1994,729471,4.62,3.6926,-0.88
+"San Antonio-New Braunfels, TX",Jan-1995,718394,3.92,4.3799,-0.89
+"San Antonio-New Braunfels, TX",Feb-1995,723631,3.63,4.1296,-0.87
+"San Antonio-New Braunfels, TX",Mar-1995,728754,3.73,3.9297,-0.76
+"San Antonio-New Braunfels, TX",Apr-1995,732601,3.5,4.0041,-0.4
+"San Antonio-New Braunfels, TX",May-1995,732395,3.19,3.9977,-0.27
+"San Antonio-New Braunfels, TX",Jun-1995,734034,3.49,4.9697,-0.01
+"San Antonio-New Braunfels, TX",Jul-1995,741791,3.88,4.9478,0.11
+"San Antonio-New Braunfels, TX",Aug-1995,734058,3.24,4.9081,0.14
+"San Antonio-New Braunfels, TX",Sep-1995,734864,3.12,4.6247,0.18
+"San Antonio-New Braunfels, TX",Oct-1995,741285,2.62,4.382,0.17
+"San Antonio-New Braunfels, TX",Nov-1995,741316,2.31,4.3923,0.32
+"San Antonio-New Braunfels, TX",Dec-1995,741806,1.69,4.1357,0.44
+"San Antonio-New Braunfels, TX",Jan-1996,730886,1.74,4.8085,0.43
+"San Antonio-New Braunfels, TX",Feb-1996,737009,1.85,4.4679,0.34
+"San Antonio-New Braunfels, TX",Mar-1996,742152,1.84,4.3207,0.39
+"San Antonio-New Braunfels, TX",Apr-1996,744199,1.58,4.0423,0.04
+"San Antonio-New Braunfels, TX",May-1996,745047,1.73,4.2022,0.2
+"San Antonio-New Braunfels, TX",Jun-1996,748327,1.95,4.8081,-0.16
+"San Antonio-New Braunfels, TX",Jul-1996,748327,0.88,5.0428,0.1
+"San Antonio-New Braunfels, TX",Aug-1996,743898,1.34,4.2902,-0.62
+"San Antonio-New Braunfels, TX",Sep-1996,748063,1.8,4.1169,-0.51
+"San Antonio-New Braunfels, TX",Oct-1996,754050,1.72,3.9474,-0.43
+"San Antonio-New Braunfels, TX",Nov-1996,756069,1.99,4.0204,-0.37
+"San Antonio-New Braunfels, TX",Dec-1996,757125,2.07,3.6772,-0.46
+"San Antonio-New Braunfels, TX",Jan-1997,750254,2.65,4.2088,-0.6
+"San Antonio-New Braunfels, TX",Feb-1997,753529,2.24,4.1491,-0.32
+"San Antonio-New Braunfels, TX",Mar-1997,763582,2.89,4.053,-0.27
+"San Antonio-New Braunfels, TX",Apr-1997,766133,2.95,3.6166,-0.43
+"San Antonio-New Braunfels, TX",May-1997,767559,3.02,3.798,-0.4
+"San Antonio-New Braunfels, TX",Jun-1997,767523,2.57,4.7139,-0.09
+"San Antonio-New Braunfels, TX",Jul-1997,770601,2.98,4.4487,-0.59
+"San Antonio-New Braunfels, TX",Aug-1997,768026,3.24,4.2849,-0.01
+"San Antonio-New Braunfels, TX",Sep-1997,767163,2.55,4.1246,0.01
+"San Antonio-New Braunfels, TX",Oct-1997,773572,2.59,3.7402,-0.21
+"San Antonio-New Braunfels, TX",Nov-1997,776257,2.67,3.6265,-0.39
+"San Antonio-New Braunfels, TX",Dec-1997,777507,2.69,3.3764,-0.3
+"San Antonio-New Braunfels, TX",Jan-1998,765806,2.07,3.9192,-0.29
+"San Antonio-New Braunfels, TX",Feb-1998,768378,1.97,3.6698,-0.48
+"San Antonio-New Braunfels, TX",Mar-1998,774994,1.49,3.9471,-0.11
+"San Antonio-New Braunfels, TX",Apr-1998,774851,1.14,3.3711,-0.25
+"San Antonio-New Braunfels, TX",May-1998,775274,1.01,3.5991,-0.2
+"San Antonio-New Braunfels, TX",Jun-1998,774524,0.91,4.5125,-0.2
+"San Antonio-New Braunfels, TX",Jul-1998,780986,1.35,4.2784,-0.17
+"San Antonio-New Braunfels, TX",Aug-1998,777212,1.2,4.078,-0.21
+"San Antonio-New Braunfels, TX",Sep-1998,781295,1.84,3.9487,-0.18
+"San Antonio-New Braunfels, TX",Oct-1998,783470,1.28,3.5045,-0.24
+"San Antonio-New Braunfels, TX",Nov-1998,784944,1.12,3.2398,-0.39
+"San Antonio-New Braunfels, TX",Dec-1998,788832,1.46,2.9254,-0.45
+"San Antonio-New Braunfels, TX",Jan-1999,786059,2.64,3.2013,-0.72
+"San Antonio-New Braunfels, TX",Feb-1999,787079,2.43,3.009,-0.66
+"San Antonio-New Braunfels, TX",Mar-1999,791554,2.14,2.9166,-1.03
+"San Antonio-New Braunfels, TX",Apr-1999,794456,2.53,2.7537,-0.62
+"San Antonio-New Braunfels, TX",May-1999,800025,3.19,2.7741,-0.83
+"San Antonio-New Braunfels, TX",Jun-1999,800886,3.4,3.4753,-1.04
+"San Antonio-New Braunfels, TX",Jul-1999,799202,2.33,3.4679,-0.81
+"San Antonio-New Braunfels, TX",Aug-1999,795004,2.29,3.2542,-0.82
+"San Antonio-New Braunfels, TX",Sep-1999,799254,2.3,3.5061,-0.44
+"San Antonio-New Braunfels, TX",Oct-1999,801649,2.32,3.3761,-0.13
+"San Antonio-New Braunfels, TX",Nov-1999,803577,2.37,3.2676,0.03
+"San Antonio-New Braunfels, TX",Dec-1999,807638,2.38,3.1081,0.18
+"San Antonio-New Braunfels, TX",Jan-2000,781738,-0.55,4.2797,1.08
+"San Antonio-New Braunfels, TX",Feb-2000,787422,0.04,4.1983,1.19
+"San Antonio-New Braunfels, TX",Mar-2000,788565,-0.38,4.0885,1.17
+"San Antonio-New Braunfels, TX",Apr-2000,795838,0.17,3.5672,0.81
+"San Antonio-New Braunfels, TX",May-2000,789074,-1.37,3.8732,1.1
+"San Antonio-New Braunfels, TX",Jun-2000,788186,-1.59,4.4046,0.93
+"San Antonio-New Braunfels, TX",Jul-2000,785980,-1.65,4.2491,0.78
+"San Antonio-New Braunfels, TX",Aug-2000,781552,-1.69,4.141,0.89
+"San Antonio-New Braunfels, TX",Sep-2000,784483,-1.85,3.9024,0.4
+"San Antonio-New Braunfels, TX",Oct-2000,787432,-1.77,3.6164,0.24
+"San Antonio-New Braunfels, TX",Nov-2000,789442,-1.76,3.6037,0.34
+"San Antonio-New Braunfels, TX",Dec-2000,794701,-1.6,3.1541,0.05
+"San Antonio-New Braunfels, TX",Jan-2001,786839,0.65,3.9443,-0.34
+"San Antonio-New Braunfels, TX",Feb-2001,793191,0.73,3.7641,-0.43
+"San Antonio-New Braunfels, TX",Mar-2001,797501,1.13,3.9685,-0.12
+"San Antonio-New Braunfels, TX",Apr-2001,796809,0.12,3.9514,0.38
+"San Antonio-New Braunfels, TX",May-2001,797032,1.01,3.9939,0.12
+"San Antonio-New Braunfels, TX",Jun-2001,798541,1.31,4.8191,0.41
+"San Antonio-New Braunfels, TX",Jul-2001,799915,1.77,4.7557,0.51
+"San Antonio-New Braunfels, TX",Aug-2001,790392,1.13,4.8958,0.75
+"San Antonio-New Braunfels, TX",Sep-2001,795346,1.38,4.7979,0.9
+"San Antonio-New Braunfels, TX",Oct-2001,793547,0.78,4.9967,1.38
+"San Antonio-New Braunfels, TX",Nov-2001,793072,0.46,5.2817,1.68
+"San Antonio-New Braunfels, TX",Dec-2001,797834,0.39,4.9755,1.82
+"San Antonio-New Braunfels, TX",Jan-2002,785806,-0.13,5.7031,1.76
+"San Antonio-New Braunfels, TX",Feb-2002,797873,0.59,5.4264,1.66
+"San Antonio-New Braunfels, TX",Mar-2002,800233,0.34,5.5021,1.53
+"San Antonio-New Braunfels, TX",Apr-2002,805273,1.06,5.4748,1.52
+"San Antonio-New Braunfels, TX",May-2002,807497,1.31,5.4713,1.48
+"San Antonio-New Braunfels, TX",Jun-2002,808597,1.26,6.2999,1.48
+"San Antonio-New Braunfels, TX",Jul-2002,808893,1.12,6.1542,1.4
+"San Antonio-New Braunfels, TX",Aug-2002,809622,2.43,5.9223,1.03
+"San Antonio-New Braunfels, TX",Sep-2002,815201,2.5,5.6916,0.89
+"San Antonio-New Braunfels, TX",Oct-2002,816161,2.85,5.5906,0.59
+"San Antonio-New Braunfels, TX",Nov-2002,812629,2.47,5.8517,0.57
+"San Antonio-New Braunfels, TX",Dec-2002,815648,2.23,5.5358,0.56
+"San Antonio-New Braunfels, TX",Jan-2003,805363,2.49,6.2442,0.54
+"San Antonio-New Braunfels, TX",Feb-2003,811183,1.67,6.0389,0.61
+"San Antonio-New Braunfels, TX",Mar-2003,814722,1.81,5.8991,0.4
+"San Antonio-New Braunfels, TX",Apr-2003,818071,1.59,5.7939,0.32
+"San Antonio-New Braunfels, TX",May-2003,814852,0.91,5.9425,0.47
+"San Antonio-New Braunfels, TX",Jun-2003,816902,1.03,7.0072,0.71
+"San Antonio-New Braunfels, TX",Jul-2003,816681,0.96,6.647,0.49
+"San Antonio-New Braunfels, TX",Aug-2003,816016,0.79,6.3875,0.47
+"San Antonio-New Braunfels, TX",Sep-2003,813816,-0.17,6.214,0.52
+"San Antonio-New Braunfels, TX",Oct-2003,820997,0.59,5.861,0.27
+"San Antonio-New Braunfels, TX",Nov-2003,824970,1.52,5.7944,-0.06
+"San Antonio-New Braunfels, TX",Dec-2003,825008,1.15,5.2791,-0.26
+"San Antonio-New Braunfels, TX",Jan-2004,815555,1.27,6.1552,-0.09
+"San Antonio-New Braunfels, TX",Feb-2004,823060,1.46,5.7064,-0.33
+"San Antonio-New Braunfels, TX",Mar-2004,827449,1.56,5.7743,-0.12
+"San Antonio-New Braunfels, TX",Apr-2004,828763,1.31,5.3409,-0.45
+"San Antonio-New Braunfels, TX",May-2004,830248,1.89,5.326,-0.62
+"San Antonio-New Braunfels, TX",Jun-2004,831534,1.79,6.0721,-0.94
+"San Antonio-New Braunfels, TX",Jul-2004,834613,2.2,5.8501,-0.8
+"San Antonio-New Braunfels, TX",Aug-2004,834488,2.26,5.4353,-0.95
+"San Antonio-New Braunfels, TX",Sep-2004,832163,2.25,5.3151,-0.9
+"San Antonio-New Braunfels, TX",Oct-2004,834819,1.68,5.2766,-0.58
+"San Antonio-New Braunfels, TX",Nov-2004,836445,1.39,5.3618,-0.43
+"San Antonio-New Braunfels, TX",Dec-2004,834180,1.11,5.136,-0.14
+"San Antonio-New Braunfels, TX",Jan-2005,829815,1.75,5.5923,-0.56
+"San Antonio-New Braunfels, TX",Feb-2005,836420,1.62,5.5247,-0.18
+"San Antonio-New Braunfels, TX",Mar-2005,840241,1.55,5.0761,-0.7
+"San Antonio-New Braunfels, TX",Apr-2005,845029,1.96,4.7992,-0.54
+"San Antonio-New Braunfels, TX",May-2005,848176,2.16,4.8202,-0.51
+"San Antonio-New Braunfels, TX",Jun-2005,850184,2.24,5.3518,-0.72
+"San Antonio-New Braunfels, TX",Jul-2005,850834,1.94,5.3219,-0.53
+"San Antonio-New Braunfels, TX",Aug-2005,852452,2.15,5.1155,-0.32
+"San Antonio-New Braunfels, TX",Sep-2005,857030,2.99,4.8103,-0.5
+"San Antonio-New Braunfels, TX",Oct-2005,864002,3.5,4.4745,-0.8
+"San Antonio-New Braunfels, TX",Nov-2005,861043,2.94,4.7847,-0.58
+"San Antonio-New Braunfels, TX",Dec-2005,863348,3.5,4.5134,-0.62
+"San Antonio-New Braunfels, TX",Jan-2006,855753,3.13,4.8137,-0.78
+"San Antonio-New Braunfels, TX",Feb-2006,861472,3,4.8122,-0.71
+"San Antonio-New Braunfels, TX",Mar-2006,867699,3.27,4.6281,-0.45
+"San Antonio-New Braunfels, TX",Apr-2006,873440,3.36,4.4649,-0.33
+"San Antonio-New Braunfels, TX",May-2006,872988,2.93,4.5279,-0.29
+"San Antonio-New Braunfels, TX",Jun-2006,874866,2.9,5.2017,-0.15
+"San Antonio-New Braunfels, TX",Jul-2006,875174,2.86,5.1422,-0.18
+"San Antonio-New Braunfels, TX",Aug-2006,875138,2.66,4.7373,-0.38
+"San Antonio-New Braunfels, TX",Sep-2006,877179,2.35,4.4958,-0.31
+"San Antonio-New Braunfels, TX",Oct-2006,885558,2.49,4.1321,-0.34
+"San Antonio-New Braunfels, TX",Nov-2006,883893,2.65,4.1845,-0.6
+"San Antonio-New Braunfels, TX",Dec-2006,883566,2.34,3.7645,-0.75
+"San Antonio-New Braunfels, TX",Jan-2007,872096,1.91,4.3873,-0.43
+"San Antonio-New Braunfels, TX",Feb-2007,876003,1.69,4.1856,-0.63
+"San Antonio-New Braunfels, TX",Mar-2007,879894,1.41,3.9048,-0.72
+"San Antonio-New Braunfels, TX",Apr-2007,880996,0.87,3.6191,-0.85
+"San Antonio-New Braunfels, TX",May-2007,883611,1.22,3.6356,-0.89
+"San Antonio-New Braunfels, TX",Jun-2007,886823,1.37,4.4372,-0.76
+"San Antonio-New Braunfels, TX",Jul-2007,890927,1.8,4.4326,-0.71
+"San Antonio-New Braunfels, TX",Aug-2007,884829,1.11,4.0982,-0.64
+"San Antonio-New Braunfels, TX",Sep-2007,890095,1.47,4.0861,-0.41
+"San Antonio-New Braunfels, TX",Oct-2007,890203,0.52,3.7902,-0.34
+"San Antonio-New Braunfels, TX",Nov-2007,895477,1.31,3.8511,-0.33
+"San Antonio-New Braunfels, TX",Dec-2007,893253,1.1,3.9082,0.14
+"San Antonio-New Braunfels, TX",Jan-2008,887121,1.72,4.346,-0.04
+"San Antonio-New Braunfels, TX",Feb-2008,889699,1.56,4.0384,-0.15
+"San Antonio-New Braunfels, TX",Mar-2008,895829,1.81,3.9505,0.05
+"San Antonio-New Braunfels, TX",Apr-2008,906111,2.85,3.6366,0.02
+"San Antonio-New Braunfels, TX",May-2008,903814,2.29,4.0865,0.45
+"San Antonio-New Braunfels, TX",Jun-2008,906960,2.27,4.8123,0.38
+"San Antonio-New Braunfels, TX",Jul-2008,906901,1.79,4.9766,0.54
+"San Antonio-New Braunfels, TX",Aug-2008,900696,1.79,5.057,0.96
+"San Antonio-New Braunfels, TX",Sep-2008,905279,1.71,4.8589,0.77
+"San Antonio-New Braunfels, TX",Oct-2008,906690,1.85,4.8736,1.08
+"San Antonio-New Braunfels, TX",Nov-2008,903607,0.91,5.0727,1.22
+"San Antonio-New Braunfels, TX",Dec-2008,899596,0.71,5.1516,1.24
+"San Antonio-New Braunfels, TX",Jan-2009,887523,0.05,5.9771,1.63
+"San Antonio-New Braunfels, TX",Feb-2009,891987,0.26,5.9684,1.93
+"San Antonio-New Braunfels, TX",Mar-2009,893948,-0.21,5.8254,1.87
+"San Antonio-New Braunfels, TX",Apr-2009,903136,-0.33,5.3609,1.72
+"San Antonio-New Braunfels, TX",May-2009,901462,-0.26,6.3177,2.23
+"San Antonio-New Braunfels, TX",Jun-2009,905059,-0.21,7.4638,2.65
+"San Antonio-New Braunfels, TX",Jul-2009,907385,0.05,7.5157,2.54
+"San Antonio-New Braunfels, TX",Aug-2009,903325,0.29,7.332,2.28
+"San Antonio-New Braunfels, TX",Sep-2009,901259,-0.44,7.3352,2.48
+"San Antonio-New Braunfels, TX",Oct-2009,904922,-0.19,7.0998,2.23
+"San Antonio-New Braunfels, TX",Nov-2009,910925,0.81,6.9001,1.83
+"San Antonio-New Braunfels, TX",Dec-2009,907040,0.83,6.8855,1.73
+"San Antonio-New Braunfels, TX",Jan-2010,922890,3.98,7.5914,1.61
+"San Antonio-New Braunfels, TX",Feb-2010,931672,4.45,7.2823,1.31
+"San Antonio-New Braunfels, TX",Mar-2010,936723,4.78,7.1592,1.33
+"San Antonio-New Braunfels, TX",Apr-2010,950072,5.2,6.9266,1.57
+"San Antonio-New Braunfels, TX",May-2010,948787,5.25,6.8292,0.51
+"San Antonio-New Braunfels, TX",Jun-2010,945664,4.49,7.4296,-0.03
+"San Antonio-New Braunfels, TX",Jul-2010,944785,4.12,7.5594,0.04
+"San Antonio-New Braunfels, TX",Aug-2010,945948,4.72,7.3798,0.05
+"San Antonio-New Braunfels, TX",Sep-2010,947977,5.18,7.2006,-0.13
+"San Antonio-New Braunfels, TX",Oct-2010,949627,4.94,7.1276,0.03
+"San Antonio-New Braunfels, TX",Nov-2010,949734,4.26,7.3529,0.45
+"San Antonio-New Braunfels, TX",Dec-2010,951369,4.89,7.0085,0.12
+"San Antonio-New Braunfels, TX",Jan-2011,947959,2.72,7.4889,-0.1
+"San Antonio-New Braunfels, TX",Feb-2011,955180,2.52,7.173,-0.11
+"San Antonio-New Braunfels, TX",Mar-2011,961256,2.62,6.9781,-0.18
+"San Antonio-New Braunfels, TX",Apr-2011,964773,1.55,6.7492,-0.18
+"San Antonio-New Braunfels, TX",May-2011,966235,1.84,6.9374,0.11
+"San Antonio-New Braunfels, TX",Jun-2011,962412,1.77,7.7815,0.35
+"San Antonio-New Braunfels, TX",Jul-2011,964030,2.04,7.7437,0.18
+"San Antonio-New Braunfels, TX",Aug-2011,963999,1.91,7.4367,0.06
+"San Antonio-New Braunfels, TX",Sep-2011,969337,2.25,7.3388,0.14
+"San Antonio-New Braunfels, TX",Oct-2011,973179,2.48,6.949,-0.18
+"San Antonio-New Braunfels, TX",Nov-2011,975559,2.72,6.5699,-0.78
+"San Antonio-New Braunfels, TX",Dec-2011,976361,2.63,6.3619,-0.65
+"San Antonio-New Braunfels, TX",Jan-2012,968678,2.19,6.7945,-0.69
+"San Antonio-New Braunfels, TX",Feb-2012,976156,2.2,6.5886,-0.58
+"San Antonio-New Braunfels, TX",Mar-2012,980620,2.01,6.3254,-0.65
+"San Antonio-New Braunfels, TX",Apr-2012,983940,1.99,5.9573,-0.79
+"San Antonio-New Braunfels, TX",May-2012,986259,2.07,6.2208,-0.72
+"San Antonio-New Braunfels, TX",Jun-2012,986786,2.53,6.874,-0.91
+"San Antonio-New Braunfels, TX",Jul-2012,987298,2.41,6.8665,-0.88
+"San Antonio-New Braunfels, TX",Aug-2012,986010,2.28,6.4192,-1.02
+"San Antonio-New Braunfels, TX",Sep-2012,995002,2.65,5.922,-1.42
+"San Antonio-New Braunfels, TX",Oct-2012,999393,2.69,5.8282,-1.12
+"San Antonio-New Braunfels, TX",Nov-2012,998333,2.33,5.6574,-0.91
+"San Antonio-New Braunfels, TX",Dec-2012,1000015,2.42,5.7097,-0.65
+"San Antonio-New Braunfels, TX",Jan-2013,995690,2.79,6.3644,-0.43
+"San Antonio-New Braunfels, TX",Feb-2013,1001530,2.6,5.9587,-0.63
+"San Antonio-New Braunfels, TX",Mar-2013,1004899,2.48,5.7855,-0.54
+"San Antonio-New Braunfels, TX",Apr-2013,1012412,2.89,5.5029,-0.45
+"San Antonio-New Braunfels, TX",May-2013,1013986,2.81,5.7311,-0.49
+"San Antonio-New Braunfels, TX",Jun-2013,1015627,2.92,6.3352,-0.54
+"San Antonio-New Braunfels, TX",Jul-2013,1017949,3.1,6.1888,-0.68
+"San Antonio-New Braunfels, TX",Aug-2013,1013281,2.77,5.8163,-0.6
+"San Antonio-New Braunfels, TX",Sep-2013,1017930,2.3,5.7161,-0.21
+"San Antonio-New Braunfels, TX",Oct-2013,1011677,1.23,5.5601,-0.27
+"San Antonio-New Braunfels, TX",Nov-2013,1020047,2.18,5.2373,-0.42
+"San Antonio-New Braunfels, TX",Dec-2013,1020845,2.08,4.9299,-0.78
+"San Antonio-New Braunfels, TX",Jan-2014,1020229,2.46,5.2364,-1.13
+"San Antonio-New Braunfels, TX",Feb-2014,1024715,2.31,5.1875,-0.77
+"San Antonio-New Braunfels, TX",Mar-2014,1032456,2.74,4.9543,-0.83
+"San Antonio-New Braunfels, TX",Apr-2014,1037717,2.5,4.2914,-1.21
+"San Antonio-New Braunfels, TX",May-2014,1038544,2.42,4.5882,-1.14
+"San Antonio-New Braunfels, TX",Jun-2014,1041343,2.53,4.93,-1.41
+"San Antonio-New Braunfels, TX",Jul-2014,1041735,2.34,5.0878,-1.1
+"San Antonio-New Braunfels, TX",Aug-2014,1036027,2.24,4.8312,-0.99
+"San Antonio-New Braunfels, TX",Sep-2014,1038509,2.02,4.4929,-1.22
+"San Antonio-New Braunfels, TX",Oct-2014,1044961,3.29,4.2144,-1.35
+"San Antonio-New Braunfels, TX",Nov-2014,1045297,2.48,4.0982,-1.14
+"San Antonio-New Braunfels, TX",Dec-2014,1041494,2.02,3.7167,-1.21
+"San Antonio-New Braunfels, TX",Jan-2015,1042781,2.21,4.1939,-1.04
+"San Antonio-New Braunfels, TX",Feb-2015,1048460,2.32,3.8811,-1.31
+"San Antonio-New Braunfels, TX",Mar-2015,1051955,1.89,3.6986,-1.26
+"San Antonio-New Braunfels, TX",Apr-2015,1060410,2.19,3.4272,-0.86
+"San Antonio-New Braunfels, TX",May-2015,1062955,2.35,3.7253,-0.86
+"San Antonio-New Braunfels, TX",Jun-2015,1059949,1.79,4.1018,-0.83
+"San Antonio-New Braunfels, TX",Jul-2015,1061872,1.93,4.142,-0.95
+"San Antonio-New Braunfels, TX",Aug-2015,1059835,2.3,3.8399,-0.99
+"San Antonio-New Braunfels, TX",Sep-2015,1063501,2.41,3.7965,-0.7
+"San Antonio-New Braunfels, TX",Oct-2015,1067117,2.12,3.7434,-0.47
+"San Antonio-New Braunfels, TX",Nov-2015,1073665,2.71,3.6737,-0.42
+"San Antonio-New Braunfels, TX",Dec-2015,1073329,3.06,3.4634,-0.25
+"San Antonio-New Braunfels, TX",Jan-2016,1074887,3.08,3.7123,-0.48
+"San Antonio-New Braunfels, TX",Feb-2016,1082737,3.27,3.6227,-0.26
+"San Antonio-New Braunfels, TX",Mar-2016,1088611,3.48,3.6345,-0.06
+"San Antonio-New Braunfels, TX",Apr-2016,1090357,2.82,3.3886,-0.04
+"San Antonio-New Braunfels, TX",May-2016,1091488,2.68,3.4395,-0.29
+"San Antonio-New Braunfels, TX",Jun-2016,1090759,2.91,4.0651,-0.04
+"San Antonio-New Braunfels, TX",Jul-2016,1098486,3.45,4.1344,-0.01
+"San Antonio-New Braunfels, TX",Aug-2016,1095086,3.33,3.9739,0.13
+"San Antonio-New Braunfels, TX",Sep-2016,1102346,3.65,3.9203,0.12
+"San Antonio-New Braunfels, TX",Oct-2016,1098146,2.91,3.8009,0.06
+"San Antonio-New Braunfels, TX",Nov-2016,1103207,2.75,3.6552,-0.02
+"San Antonio-New Braunfels, TX",Dec-2016,1101524,2.63,3.6399,0.18
+"San Antonio-New Braunfels, TX",Jan-2017,1093936,1.77,3.9457,0.23
+"San Antonio-New Braunfels, TX",Feb-2017,1102862,1.86,4.1936,0.57
+"San Antonio-New Braunfels, TX",Mar-2017,1107970,1.78,4.0626,0.43
+"San Antonio-New Braunfels, TX",Apr-2017,1115183,2.28,3.5973,0.21
+"San Antonio-New Braunfels, TX",May-2017,1111113,1.8,3.6175,0.18
+"San Antonio-New Braunfels, TX",Jun-2017,1109096,1.68,3.8942,-0.17
+"San Antonio-New Braunfels, TX",Jul-2017,1111983,1.23,3.6667,-0.47

@@ -1,0 +1,142 @@
+msa,year,population,percentChange,totalPopulationChange,births,deaths,internationalImmigration,domesticMigration
+"Dallas-Fort Worth-Arlington, TX",1970,2428365,,,,,,
+"Dallas-Fort Worth-Arlington, TX",1971,2478900,2.081,50535,,,,
+"Dallas-Fort Worth-Arlington, TX",1972,2494500,0.6293,15600,,,,
+"Dallas-Fort Worth-Arlington, TX",1973,2549200,2.1928,54700,,,,
+"Dallas-Fort Worth-Arlington, TX",1974,2621400,2.8323,72200,,,,
+"Dallas-Fort Worth-Arlington, TX",1975,2668500,1.7967,47100,,,,
+"Dallas-Fort Worth-Arlington, TX",1976,2738700,2.6307,70200,,,,
+"Dallas-Fort Worth-Arlington, TX",1977,2792300,1.9571,53600,,,,
+"Dallas-Fort Worth-Arlington, TX",1978,2860100,2.4281,67800,,,,
+"Dallas-Fort Worth-Arlington, TX",1979,2944500,2.9509,84400,,,,
+"Dallas-Fort Worth-Arlington, TX",1980,3034259,3.0484,89759,,,,
+"Dallas-Fort Worth-Arlington, TX",1981,3141226,3.5253,106967,,,,
+"Dallas-Fort Worth-Arlington, TX",1982,3255044,3.6234,113818,58447,22075,,
+"Dallas-Fort Worth-Arlington, TX",1983,3366597,3.4271,111553,60473,22610,,
+"Dallas-Fort Worth-Arlington, TX",1984,3483781,3.4808,117184,63146,23712,,
+"Dallas-Fort Worth-Arlington, TX",1985,3624952,4.0522,141171,68092,24348,,
+"Dallas-Fort Worth-Arlington, TX",1986,3762028,3.7815,137076,72321,24745,,
+"Dallas-Fort Worth-Arlington, TX",1987,3846478,2.2448,84450,73796,24974,,
+"Dallas-Fort Worth-Arlington, TX",1988,3893126,1.2127,46648,73834,25189,,
+"Dallas-Fort Worth-Arlington, TX",1989,3953105,1.5406,59979,74034,25692,,
+"Dallas-Fort Worth-Arlington, TX",1990,4018778,1.6613,65673,55624,19501,,
+"Dallas-Fort Worth-Arlington, TX",1991,4144813,3.1362,126035,75590,25840,,
+"Dallas-Fort Worth-Arlington, TX",1992,4231065,2.081,86252,75894,26669,15889,2736
+"Dallas-Fort Worth-Arlington, TX",1993,4321701,2.1422,90636,75067,27535,17302,4709
+"Dallas-Fort Worth-Arlington, TX",1994,4426050,2.4145,104349,75565,28599,16908,19668
+"Dallas-Fort Worth-Arlington, TX",1995,4536179,2.4882,110129,76365,28575,18316,23465
+"Dallas-Fort Worth-Arlington, TX",1996,4664290,2.8242,128111,78534,29645,22759,34449
+"Dallas-Fort Worth-Arlington, TX",1997,4808429,3.0903,144139,81036,29478,23106,44444
+"Dallas-Fort Worth-Arlington, TX",1998,4957705,3.1045,149276,83193,29909,22426,47386
+"Dallas-Fort Worth-Arlington, TX",1999,5101405,2.8985,143700,83130,30056,22867,38020
+"Dallas-Fort Worth-Arlington, TX",2000,5204126,2.0136,102721,,,,
+"Dallas-Fort Worth-Arlington, TX",2001,5376413,3.3106,172287,94707,33069,44934,49880
+"Dallas-Fort Worth-Arlington, TX",2002,5482944,1.9815,106531,96196,33643,42277,14858
+"Dallas-Fort Worth-Arlington, TX",2003,5575785,1.6933,92841,97914,32676,36804,-219
+"Dallas-Fort Worth-Arlington, TX",2004,5666333,1.624,90548,98730,33274,33925,9071
+"Dallas-Fort Worth-Arlington, TX",2005,5776543,1.945,110210,99606,33941,35470,24724
+"Dallas-Fort Worth-Arlington, TX",2006,5942755,2.8774,166212,101895,33696,35617,77931
+"Dallas-Fort Worth-Arlington, TX",2007,6081907,2.3415,139152,104042,34547,32432,51673
+"Dallas-Fort Worth-Arlington, TX",2008,6211115,2.1245,129208,105510,36077,31492,44164
+"Dallas-Fort Worth-Arlington, TX",2009,6341740,2.1031,130625,106300,36728,31633,46000
+"Dallas-Fort Worth-Arlington, TX",2010,6426214,1.332,84474,23758,8986,4283,7052
+"Dallas-Fort Worth-Arlington, TX",2011,6571576,2.262,145362,96349,37777,20352,38731
+"Dallas-Fort Worth-Arlington, TX",2012,6704080,2.0163,132504,95686,38130,18910,55505
+"Dallas-Fort Worth-Arlington, TX",2013,6813055,1.6255,108975,96377,40113,20982,32868
+"Dallas-Fort Worth-Arlington, TX",2014,6945274,1.9407,132219,98474,41036,24416,49286
+"Dallas-Fort Worth-Arlington, TX",2015,7089888,2.0822,144614,100248,43189,25907,60796
+"Dallas-Fort Worth-Arlington, TX",2016,7233323,2.0231,143435,100965,44801,25626,60230
+"Houston-The Woodlands-Sugar Land, TX",1970,2195147,,,,,,
+"Houston-The Woodlands-Sugar Land, TX",1971,2275100,3.6423,79953,,,,
+"Houston-The Woodlands-Sugar Land, TX",1972,2332900,2.5405,57800,,,,
+"Houston-The Woodlands-Sugar Land, TX",1973,2401800,2.9534,68900,,,,
+"Houston-The Woodlands-Sugar Land, TX",1974,2479900,3.2517,78100,,,,
+"Houston-The Woodlands-Sugar Land, TX",1975,2587700,4.3469,107800,,,,
+"Houston-The Woodlands-Sugar Land, TX",1976,2696200,4.1929,108500,,,,
+"Houston-The Woodlands-Sugar Land, TX",1977,2800400,3.8647,104200,,,,
+"Houston-The Woodlands-Sugar Land, TX",1978,2915500,4.1101,115100,,,,
+"Houston-The Woodlands-Sugar Land, TX",1979,3032600,4.0165,117100,,,,
+"Houston-The Woodlands-Sugar Land, TX",1980,3136206,3.4164,103606,,,,
+"Houston-The Woodlands-Sugar Land, TX",1981,3309381,5.5218,173175,,,,
+"Houston-The Woodlands-Sugar Land, TX",1982,3504930,5.9089,195549,69671,20377,,
+"Houston-The Woodlands-Sugar Land, TX",1983,3605388,2.8662,100458,71316,20723,,
+"Houston-The Woodlands-Sugar Land, TX",1984,3622633,0.4783,17245,70209,20824,,
+"Houston-The Woodlands-Sugar Land, TX",1985,3628588,0.1644,5955,70242,21042,,
+"Houston-The Woodlands-Sugar Land, TX",1986,3668133,1.0898,39545,69327,21290,,
+"Houston-The Woodlands-Sugar Land, TX",1987,3626052,-1.1472,-42081,67222,21356,,
+"Houston-The Woodlands-Sugar Land, TX",1988,3615294,-0.2967,-10758,66838,22126,,
+"Houston-The Woodlands-Sugar Land, TX",1989,3670089,1.5156,54795,68608,22928,,
+"Houston-The Woodlands-Sugar Land, TX",1990,3750846,2.2004,80757,52366,17322,,
+"Houston-The Woodlands-Sugar Land, TX",1991,3884885,3.5736,134039,73401,23436,,
+"Houston-The Woodlands-Sugar Land, TX",1992,3989770,2.6998,104885,75279,24192,25211,19273
+"Houston-The Woodlands-Sugar Land, TX",1993,4075564,2.1503,85794,75171,24465,26414,-805
+"Houston-The Woodlands-Sugar Land, TX",1994,4153355,1.9087,77791,74263,25717,23757,-3473
+"Houston-The Woodlands-Sugar Land, TX",1995,4227574,1.787,74219,73200,25412,22034,-4883
+"Houston-The Woodlands-Sugar Land, TX",1996,4314589,2.0583,87015,74189,26412,25609,3290
+"Houston-The Woodlands-Sugar Land, TX",1997,4407210,2.1467,92621,76288,26195,26334,5877
+"Houston-The Woodlands-Sugar Land, TX",1998,4513913,2.4211,106703,78296,26887,24588,17998
+"Houston-The Woodlands-Sugar Land, TX",1999,4622857,2.4135,108944,78268,26828,23814,18026
+"Houston-The Woodlands-Sugar Land, TX",2000,4693161,1.5208,70304,,,,
+"Houston-The Woodlands-Sugar Land, TX",2001,4817815,2.6561,124654,83347,29313,40265,4293
+"Houston-The Woodlands-Sugar Land, TX",2002,4937081,2.4755,119266,84563,30214,37962,24142
+"Houston-The Woodlands-Sugar Land, TX",2003,5036393,2.0116,99312,88021,29891,33076,2333
+"Houston-The Woodlands-Sugar Land, TX",2004,5132602,1.9103,96209,88802,29687,30197,5834
+"Houston-The Woodlands-Sugar Land, TX",2005,5233729,1.9703,101127,89820,29919,31660,6024
+"Houston-The Woodlands-Sugar Land, TX",2006,5423615,3.6281,189886,92131,30303,31679,92033
+"Houston-The Woodlands-Sugar Land, TX",2007,5540882,2.1622,117267,95192,30797,28756,19071
+"Houston-The Woodlands-Sugar Land, TX",2008,5676381,2.4454,135499,96182,32169,27854,37128
+"Houston-The Woodlands-Sugar Land, TX",2009,5826108,2.6377,149727,96141,32975,27975,49651
+"Houston-The Woodlands-Sugar Land, TX",2010,5920416,1.6187,94308,22301,8326,5915,7562
+"Houston-The Woodlands-Sugar Land, TX",2011,6057412,2.314,136996,92017,32803,27632,22974
+"Houston-The Woodlands-Sugar Land, TX",2012,6180817,2.0373,123405,91488,33683,26711,38656
+"Houston-The Woodlands-Sugar Land, TX",2013,6324167,2.3193,143350,93046,35764,29460,55763
+"Houston-The Woodlands-Sugar Land, TX",2014,6488046,2.5913,163879,97412,36499,33556,68520
+"Houston-The Woodlands-Sugar Land, TX",2015,6647465,2.4571,159419,101126,38948,35344,61674
+"Houston-The Woodlands-Sugar Land, TX",2016,6772470,1.8805,125005,102152,40536,35000,28090
+"San Antonio-New Braunfels, TX",1970,951876,,,,,,
+"San Antonio-New Braunfels, TX",1971,987600,3.753,35724,,,,
+"San Antonio-New Braunfels, TX",1972,1008800,2.1466,21200,,,,
+"San Antonio-New Braunfels, TX",1973,1039000,2.9937,30200,,,,
+"San Antonio-New Braunfels, TX",1974,1055300,1.5688,16300,,,,
+"San Antonio-New Braunfels, TX",1975,1064500,0.8718,9200,,,,
+"San Antonio-New Braunfels, TX",1976,1083400,1.7755,18900,,,,
+"San Antonio-New Braunfels, TX",1977,1105700,2.0583,22300,,,,
+"San Antonio-New Braunfels, TX",1978,1123900,1.646,18200,,,,
+"San Antonio-New Braunfels, TX",1979,1138700,1.3168,14800,,,,
+"San Antonio-New Braunfels, TX",1980,1154819,1.4156,16119,,,,
+"San Antonio-New Braunfels, TX",1981,1187117,2.7968,32298,,,,
+"San Antonio-New Braunfels, TX",1982,1222136,2.9499,35019,22595,8781,,
+"San Antonio-New Braunfels, TX",1983,1254044,2.6108,31908,23511,8919,,
+"San Antonio-New Braunfels, TX",1984,1283925,2.3828,29881,24183,9196,,
+"San Antonio-New Braunfels, TX",1985,1317439,2.6103,33514,24968,9417,,
+"San Antonio-New Braunfels, TX",1986,1356676,2.9783,39237,25723,9575,,
+"San Antonio-New Braunfels, TX",1987,1387997,2.3087,31321,25939,9749,,
+"San Antonio-New Braunfels, TX",1988,1394458,0.4655,6461,25621,9874,,
+"San Antonio-New Braunfels, TX",1989,1401286,0.4897,6828,25242,10033,,
+"San Antonio-New Braunfels, TX",1990,1407745,0.4609,6459,18865,7624,,
+"San Antonio-New Braunfels, TX",1991,1434060,1.8693,26315,25325,10128,,
+"San Antonio-New Braunfels, TX",1992,1465365,2.183,31305,25766,10531,3214,7927
+"San Antonio-New Braunfels, TX",1993,1498269,2.2454,32904,25684,10901,3642,11671
+"San Antonio-New Braunfels, TX",1994,1535185,2.4639,36916,26365,11430,3687,7536
+"San Antonio-New Braunfels, TX",1995,1570083,2.2732,34898,26617,11248,4260,13501
+"San Antonio-New Braunfels, TX",1996,1599427,1.8689,29344,26274,11705,4694,9938
+"San Antonio-New Braunfels, TX",1997,1628676,1.8287,29249,27131,11758,5379,15112
+"San Antonio-New Braunfels, TX",1998,1659847,1.9139,31171,27571,11991,4728,9004
+"San Antonio-New Braunfels, TX",1999,1689009,1.7569,29162,27820,11982,4745,7991
+"San Antonio-New Braunfels, TX",2000,1711703,1.3436,22694,,,,
+"San Antonio-New Braunfels, TX",2001,1748123,2.1277,36420,28483,12730,4838,5650
+"San Antonio-New Braunfels, TX",2002,1784153,2.0611,36030,28465,12901,3159,16282
+"San Antonio-New Braunfels, TX",2003,1815846,1.7764,31693,29393,13083,-411,16568
+"San Antonio-New Braunfels, TX",2004,1857602,2.2995,41756,30078,13232,5655,14995
+"San Antonio-New Braunfels, TX",2005,1896328,2.0847,38726,30305,13397,3634,15593
+"San Antonio-New Braunfels, TX",2006,1956361,3.1657,60033,31016,13443,4770,33586
+"San Antonio-New Braunfels, TX",2007,2011543,2.8206,55182,31973,13654,3090,30557
+"San Antonio-New Braunfels, TX",2008,2061275,2.4723,49732,33027,14024,3557,23337
+"San Antonio-New Braunfels, TX",2009,2105672,2.1539,44397,33595,14311,3303,18984
+"San Antonio-New Braunfels, TX",2010,2142508,1.7494,36836,7441,3550,973,5590
+"San Antonio-New Braunfels, TX",2011,2194063,2.4063,51555,31253,14840,4084,19973
+"San Antonio-New Braunfels, TX",2012,2237381,1.9743,43318,30983,14805,5545,21255
+"San Antonio-New Braunfels, TX",2013,2281831,1.9867,44450,31625,15972,5137,22666
+"San Antonio-New Braunfels, TX",2014,2331197,2.1634,49366,32855,15961,5723,26011
+"San Antonio-New Braunfels, TX",2015,2381703,2.1665,50506,33753,17176,6316,26171
+"San Antonio-New Braunfels, TX",2016,2429609,2.0114,47906,34143,17457,5756,24845
