@@ -6,9 +6,9 @@ future housing demand projection
 The goal of this analysis is to project future housing demand in Texas with focus on Houston metropolitan area
 
 # Data
- * Time period: 1990-2017
- * Frequency : monthly/annual
- * Sub-region: Metropolitan Statistical Area (MSA) level
+ * Time period: 1998-2016
+ * Frequency : monthly
+ * Metropolitan Statistical Area (MSA) level:
    * Houston-The Woodlands-Sugar Land, TX
    * Dallas-Fort Worth-Arlington, TX
    * San Antonio-New Braunfels, TX
@@ -16,11 +16,24 @@ The goal of this analysis is to project future housing demand in Texas with focu
 # Methodology:
   * Quantify housing demand: existing home sales 
   * Variables: 
-    * dependent variable: 
-
+    * dependent variable: forward existing home sales
+    * features:
+      * 'employmentTotal_h': ratio between monthly total empolyment number and history to date average total empolyment per MSA
+      * 'f1units_r': ratio between monthly single family building permit and 24 month rolling average single family building permit per MSA
+      * 'f24units_r':ratio between monthly 2-4 family building permit and 24 month rolling average 2-4 family building permit per MSA
+      * 'f5units_h': ratio between monthly 5+ family building permit and history to date average 5+ family building permit per MSA
+      * 'hh_inc_h': ratio between annual household income and history to date average annual household income of Texas
+      * 'libor12_r': ratio between average monthly 12m LIBOR and 24 month rolling average 12m LIBOR
+      * 'months_inventory_g': monthly YoY change of housing inventory per MSA
+      * 'oil_p_h': ratio between monthly WTI price and history to date average WTI price
+      * 'population_h': ratio between annual population and history to date average population per MSA
+      * 'unemploymentRate_g': monthly YoY change of unemployment rate per MSA
+      * 'wage_growth_r': ratio between monthly wage growth and 24 month rolling average wage growth of West South Central region
+  * model: ridge regression
+  
 # Analysis
   * descriptive statistics analysis is conducted to assess the overall housing KPI metrics in 3 selected MSA
-  * a RF model is built to project future housing demand
+  * a ridge regression model is trained to project future housing demand
 
 # Directory
 
