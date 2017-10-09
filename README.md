@@ -26,6 +26,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
        * `libor12_r`: ratio between average monthly 12m LIBOR and 24 month rolling average 12m LIBOR
        * `months_inventory_g`: monthly YoY change of housing inventory per MSA
        * `oil_p_h`: ratio between monthly WTI price and history to date average WTI price
+       * `p_med_h`: ratio between monthly median house price and history to date average median house price
        * `population_h`: ratio between annual population and history to date average population per MSA
        * `unemploymentRate_g`: monthly YoY change of unemployment rate per MSA
        * `wage_growth_r`: ratio between monthly wage growth and 24 month rolling average wage growth of West South Central region
