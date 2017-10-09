@@ -15,8 +15,8 @@ The goal of this analysis is to project future housing demand in Texas with focu
 
 # Methodology:
   * Quantify housing demand: existing home sales 
-  * Variables: 
-    * dependent variable: forward existing home sales
+  * Features: 
+    * label: forward existing home sales
     * features:
        * `employmentTotal_h`: ratio between monthly total empolyment number and history to date average total empolyment per MSA
        * `f1units_r`: ratio between monthly single family building permit and 24 month rolling average single family building permit per MSA
