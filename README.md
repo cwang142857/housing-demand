@@ -59,9 +59,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
     
 * **modeling_data** directory contains the integretated and cleaned dataset for analysis and modeling
 
-* **code** directory contains the python code used for analysis and modeling
-
-* **presentation** directory contains the jupyter notebook used for presentation
+* **jupyter notebook** directory contains the jupyter notebook with code and results for presentation
 
 
     
