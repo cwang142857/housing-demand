@@ -30,6 +30,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
        * `population_h`: ratio between annual population and history to date average population per MSA
        * `unemploymentRate_g`: monthly YoY change of unemployment rate per MSA
        * `wage_growth_r`: ratio between monthly wage growth and 24 month rolling average wage growth of West South Central region
+       * 'month`: number of month
   * model: ridge regression
   
 # Analysis
