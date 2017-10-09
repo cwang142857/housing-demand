@@ -32,11 +32,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
        * `wage_growth_r`: ratio between monthly wage growth and 24 month rolling average wage growth of West South Central region
        * 'month`: number of month
   * model: ridge regression
-  
-# Analysis
-  * descriptive statistics analysis is conducted to assess the overall housing KPI metrics in 3 selected MSA
-  * a ridge regression model is trained to project future housing demand
-
+ 
 # Directory
 
 * **raw_data** directory contains all the raw data resources used in this analysis:
