@@ -48,7 +48,7 @@ The goal of this analysis is to project future housing demand in Texas with focu
     * source: U.S. Bureau of Census, [webiste](https://www.census.gov/topics/income-poverty/income/data/tables.All.html)
   * `wage-growth-data.xlsx`: monthly region level of wage growth rate (1997 - 2017)
     * source: Current Population Survey, Bureau of Labor Statistics, and Federal Reserve Bank of Atlanta Calculations, [website](https://www.frbatlanta.org/chcs/wage-growth-tracker.aspx?panel=1)
-  * `libor.csv`: daily level of LIBRO (1986 - 2017)
+  * `libor.csv`: daily level of LIBOR (1986 - 2017)
     * source: Federal Reserve Bank
   * `wti_oil.csv`: monthly level of oil price (1980 - 2017)
     * source: Federal Reserve Bank
